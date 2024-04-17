@@ -32,7 +32,7 @@ Undergraduate/graudate visitors are also welcome.
 
 <table>
     <tr>
-        <td style="background-color: #F5F2F1; border-top: 2px solid black; border-bottom: none; border-left: none; border-right: none; padding: 20px; height: 10px;">
+        <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: none; border-left: none; border-right: none; padding: 20px; height: 0.2px;">
         </td>
     </tr>
 </table>
