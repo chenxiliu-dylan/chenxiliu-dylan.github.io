@@ -12,11 +12,11 @@ redirect_from:
 
 I am Chenxi Liu (刘晨曦), and you can call me Dylan. I am now a Ph.D. Candidate of [STAR Lab](http://www.uwstarlab.org/) in Civil & Environmental Engineering at University of Washington Seattle. I will work as an Assistant Professor in Civil & Environmental Engineering at University of Utah in Autumn 2024. I got my bacholar's degree in Civil Engineering at Tsinghua University in 2017 and my Master's degree in Civil and Environmental Engineering at University of Washington in 2020.
 
-My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity and resiliency. More specifically, I prefer to develop advanced traffic sensing technologies (traffic environment sensing, 3D object sensing, crowds sensing, cooperative sensing) with distributed machine intelligence (edge computing) to build a connected and smart transportation system.
+My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity and resiliency. More specifically, I prefer to develop advanced traffic sensing technologies (traffic environment sensing, 3D object sensing, crowds sensing, cooperative sensing) with distributed machine intelligence (edge computing) to build a connected and smart transportation system for various applications (SPaT challenge, intersection safety, dilemma zone mitigation).
 
-# Fully Funded Ph.D. Student Position opening!!!
+# Fully Funded Ph.D. Student Positions Are Opening!!!
 
-I am looking for Ph.D. students starting from Autumn 2024. 
+Fully funded Ph.D. positions starting from Autumn 2024 in Civil and Environmental Engineering at University of Utah are openning now. You are expected to contribute to the research about customzing machine intelligence in intelligent transportation field. This encompasses advanced sensing technologies, distributed computing, predictive control methods, as well as connected and autonmous transportation systems. If you are interested in these research topics and woking with me, please email your transcript and CV, detailing your research experience, to me at chenxiliu42@gmail.com
 
 A data-driven personal website
 ==============================
