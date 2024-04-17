@@ -9,23 +9,24 @@ redirect_from:
 
 # About Me
 
-I am Chenxi Liu (刘晨曦), and you can call me Dylan. I am now a Ph.D. Candidate of [STAR Lab](http://www.uwstarlab.org/) in Civil & Environmental Engineering at University of Washington Seattle. I will work as an Assistant Professor in Civil & Environmental Engineering at University of Utah in Autumn 2024. I got my bacholar's degree in Civil Engineering at Tsinghua University in 2017 and my Master's degree in Civil and Environmental Engineering at University of Washington in 2020.
+I am Chenxi Liu (刘晨曦), and you may also call me Dylan. Currently I am a Ph.D. Candidate of [STAR Lab](http://www.uwstarlab.org/) in Civil & Environmental Engineering at University of Washington Seattle. In Autumn 2024, I will begin my role as an Assistant Professor in Civil and Environmental Engineering at University of Utah. I earned my Bachelor's degree in Civil Engineering from Tsinghua University in 2017 and completed my Master's degree in Civil and Environmental Engineering at the University of Washington in 2020.
 
-some markdown text with <span style="color:blue">some *blue* text</span>. 
+some markdown text with <span style="color:blue">some *blue* text</span>.
 
-My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity and resiliency. More specifically, I prefer to develop advanced traffic sensing technologies (traffic environment sensing, 3D object sensing, crowds sensing, cooperative sensing) with distributed machine intelligence (edge computing) to build a connected and smart transportation system for various applications (SPaT challenge, intersection safety, dilemma zone mitigation).
+My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity and resiliency. More specifically, I prefer to develop **advanced traffic sensing technologies** (traffic environment sensing, 3D object sensing, crowds sensing, cooperative sensing) with **distributed machine intelligence** (edge computing) to build a **connected and smart transportation system** for various applications (SPaT challenge, intersection safety, dilemma zone mitigation).
 
-# Fully Funded Ph.D. Student Positions Are Opening!!!
+# 🚀️Fully Funded Ph.D. Student Positions Are Opening!!!🚀️
 
-Fully funded Ph.D. positions starting from Autumn 2024 in Civil and Environmental Engineering at University of Utah are openning now. You are expected to contribute to the research about customzing machine intelligence in intelligent transportation field. This includes but not limited:
+I am pleased to offer fully funded Ph.D. positions starting in Autumn 2024 in the Department of Civil and Environmental Engineering at University of Utah. Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
 
-* Advanced sensing technologies
+* Integrated sensing technologies
+* Cyber-physical coopertation
 * Distributed computing
 * Predictive control methods
 * Smart Infrastructure
 * Connected and autonmous transportation systems
 
-If you are interested in the , please email your transcript and CV, detailing your research experience, to me at chenxiliu42@gmail.com
+If you are passionate about these research areas and enjoy living in Salt Lake City, which offers world-class skiing and numerous national parks, I would be delighted to consider you for our team. Please send your transcript and CV to [chenxiliu42@gmail.com](). Undergraduate/graudate visitors are also welcome. That's get together and have some fun!
 
 A data-driven personal website
 ==============================
