@@ -26,7 +26,7 @@ I am pleased to offer fully funded Ph.D. positions starting in Autumn 2024 in th
 * Smart Infrastructure
 * Connected and autonmous transportation systems
 
-If you are passionate about these research areas and enjoy living in Salt Lake City, which offers world-class skiing and numerous national parks, I would be delighted to consider you for our team. Please send your transcript and CV to [chenxiliu42@gmail.com](). Undergraduate/graudate visitors are also welcome. That's get together and have some fun!
+If you are passionate about these research areas and enjoy living in Salt Lake City, which offers world-class skiing and numerous national parks, I would be delighted to consider you for our team. Please send your transcript and CV to [chenxiliu42@gmail.com](). Undergraduate/graudate visitors are also welcome. Let's get together and have some fun!
 
 # 🎉️ News
 
@@ -38,7 +38,7 @@ If you are passionate about these research areas and enjoy living in Salt Lake C
   </thead>
 </table>
 
-<span style="color:darkred"> New! </span> Apr. 2024. I will join the Department of Civil and Environmental Engineering at the University of Utah as an Assistant Professor in the upcming autumn semester.
+* <span style="color:darkred"> New! </span> Apr. 2024. I will join the Department of Civil and Environmental Engineering at the University of Utah as an Assistant Professor in the upcming autumn semester.
 
 * <span style="color:darkred"> New! </span> Apr. 2024. A new forum paper "Potentials and Challenges of AI-Empowered Solutions to Urban Transportation Infrastructure Systems (UTIS): NSF AI-Transportation Workshop Phase I" was accepted by Journal of Transportation Engineering, Part A: Systems.
 * <span style="color:darkred"> New! </span> Mar. 2024. A new research paper "Traffic Performance Score: Measure Urban Mobility and Online Predict Near-term Traffic like Weather Forecast." Transportation Research Record" was published on Transpotation Research Record. 
