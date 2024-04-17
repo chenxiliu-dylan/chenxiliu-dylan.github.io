@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chenxi / HomePage"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Chenxi Liu"
 description              : ""
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Chenxi (Dylan) Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate, Civil & Environmental Engineering <br /> University of Washington, Seattle <br /> Upcoming Assistant Professor, Civil & Environmental Engineering <br /> University of Utah"
+  bio              : "Ph.D. Candidate <br /> Civil & Environmental Engineering <br /> University of Washington, Seattle <br /> <br /> Upcoming Assistant Professor, Civil & Environmental Engineering <br /> University of Utah"
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
