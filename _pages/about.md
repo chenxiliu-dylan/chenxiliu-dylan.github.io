@@ -30,10 +30,10 @@ Undergraduate/graudate visitors are also welcome.
 
 # 🎉️ News
 
-<table style="width:100%">
+<table style="width:100%" bgcolor="D3D3D3">
   <thead>
     <tr>
-      <td bgcolor=#808080>  <p align="left"> #🎉️News </p> </td>
+      <th width="100%"> <h1> <p align="left"> 🎉️news </p> </h1> </th>
     </tr>
   </thead>
 </table>
