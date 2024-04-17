@@ -13,7 +13,7 @@ I am Chenxi Liu (刘晨曦), and you may also call me Dylan. Currently I am a Ph
 
 My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity and resiliency. More specifically, I prefer to develop **advanced traffic sensing technologies** (traffic environment sensing, 3D object sensing, crowds sensing, cooperative sensing) with **distributed machine intelligence** (edge computing) to build a **connected and smart transportation system** for various applications (SPaT challenge, intersection safety, dilemma zone mitigation).
 
-# 🚀️Fully Funded Ph.D. Student Positions Are Opening!!!🚀️
+# 🚀️Funded Ph.D. Student Positions Are Opening!!!🚀️
 
 I am pleased to offer fully funded Ph.D. positions starting in Autumn 2024 in the Department of Civil and Environmental Engineering at University of Utah. Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
 
