@@ -9,7 +9,6 @@ redirect_from:
 
 # About Me
 
----
 
 I am Chenxi Liu (刘晨曦), and you may also call me Dylan. Currently I am a Ph.D. Candidate of [STAR Lab](http://www.uwstarlab.org/) in Civil & Environmental Engineering at [University of Washington Seattle](https://www.ce.washington.edu/). In Autumn 2024, I will begin my role as an Assistant Professor in Civil and Environmental Engineering at [University of Utah](https://www.civil.utah.edu/). I earned my Bachelor's degree in Civil Engineering from [Tsinghua University](https://www.civil.tsinghua.edu.cn/ceen/) in 2017 and completed my Master's degree in Civil and Environmental Engineering at the [University of Washington](https://www.ce.washington.edu/) in 2020.
 
@@ -17,7 +16,6 @@ My research focused on the situation-aware customized machine intelligence to es
 
 # 🚀️Funded Ph.D. Student Positions Are Opening!!!🚀️
 
----
 I am pleased to offer fully funded Ph.D. positions starting in Autumn 2024 in the Department of Civil and Environmental Engineering at University of Utah. Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
 
 * Integrated sensing technologies
@@ -33,7 +31,6 @@ Undergraduate/graudate visitors are also welcome.
 
 # 🎉️ News
 
----
 
 * <span style="color:darkred"> New! </span> Apr. 2024. I will join the Department of Civil and Environmental Engineering at the University of Utah as an Assistant Professor in the upcming autumn semester.
 * <span style="color:darkred"> New! </span> Apr. 2024. A new forum paper "Potentials and Challenges of AI-Empowered Solutions to Urban Transportation Infrastructure Systems (UTIS): NSF AI-Transportation Workshop Phase I" was accepted by Journal of Transportation Engineering, Part A: Systems.
