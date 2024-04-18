@@ -1,9 +1,9 @@
 .container {
-    width:130px;
+    width:100%;
     border:1px solid #d3d3d3;
 }
 .container div {
-    width:150%;
+    width:100%;
 }
 .container .header {
     background-color:#d3d3d3;
