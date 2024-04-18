@@ -10,11 +10,6 @@ author_profile: true
 <div class="wordwrap">You can also find all my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
 
 # Refereed Journal Publications
 
@@ -82,6 +77,7 @@ author_profile: true
 28. H. Yang, M. Zhu, **C. Liu**, and Y. Wang*. "A Novel Framework for City-scale Road Network Congestion Prediction and Cascading Analysis based on Multi-Target Multi-Camera Tracking (MTMCT)." Proceedings of the 2020 ASCE International Conference on Transportation and Development (ICTD), Seattle, WA, USA, May 2020.
 29. H. Yang, **C. Liu**, M. Zhu, W. Sun, and Y. Wang*. "Hybrid Data-fusion Model for Short-term Road Hazardous Segments Identification based on the Acceleration and Deceleration Information." Proceedings of the 2020 ASCE International Conference on Transportation and Development (ICTD), Seattle, WA, USA, May 2020.
 30. H. Yang, **C. Liu**, X. Ban, C. Zhang, and Y. Wang*. "Cell-speed Prediction Neural Network (CPNN): A Deep Learning Approach for Trip-based Speed Prediction (TRBAM-19-02492)." Proceedings of the 98th Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2019.
+    
 
 # Patents Submitted & Awarded
 
