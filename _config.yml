@@ -17,6 +17,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : chenxiliu-dylan.github.io
 use_logo                 : true
 logo                     : "/assets/mstile-144x144.png"
+masthead_title           : "Chenxi (Dylan) Liu"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
