@@ -31,7 +31,7 @@ My research focused on the situation-aware customized machine intelligence to es
     </tr>
 </table>
 
-I am pleased to offer fully funded Ph.D. positions starting in Autumn 2024 in the Department of Civil and Environmental Engineering at University of Utah. Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
+I am pleased to offer fully funded Ph.D. positions starting from Autumn 2024 in the [Department of Civil and Environmental Engineering at University of Utah](https://www.civil.utah.edu). Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
 
 * Integrated sensing technologies
 * Cyber-physical coopertation
@@ -59,7 +59,7 @@ Undergraduate/graudate visitors are also welcome.
 * <span style="color:darkred"> New! </span> Apr. 2024. A new forum paper "Potentials and Challenges of AI-Empowered Solutions to Urban Transportation Infrastructure Systems (UTIS): NSF AI-Transportation Workshop Phase I" was accepted by Journal of Transportation Engineering, Part A: Systems.
 * <span style="color:darkred"> New! </span> Mar. 2024. A new research paper "[Traffic Performance Score: Measure Urban Mobility and Online Predict Near-term Traffic like Weather Forecast.](https://journals.sagepub.com/doi/abs/10.1177/03611981231222232)" was published on Transpotation Research Record.
 * <span style="color:darkred"> New! </span> Mar. 2024. I was invited to serve as a member of the Edge Computing Subcommittee under the [TRB Standing Committee on AI and Advanced Computing Applications](https://sites.google.com/view/trbaed50).
-* <span style="color:darkred"> New! </span> Feb. 2024. I have been invited to join the editorial board of [Digital Transportation and Safety](https://www.maxapress.com/dts/specials) as a young member.
+* <span style="color:darkred"> New! </span> Feb. 2024. I have been invited to join the editorial board of [Digital Transportation and Safety (DTS)](https://www.maxapress.com/dts/specials) as a young member.
 
 ---
 
@@ -79,8 +79,6 @@ As deep learning technologies increasingly integrate into transportation systems
 > <img style="float: left" src="https://chenxiliu-dylan.github.io/images/environment1.png" style="width: 100%; height: auto">
 > <img style="float: left" src="https://chenxiliu-dylan.github.io/images/environment2.png" style="width: 100%; height: auto">
 > The physical traffic environment, characterized by factors plays a crucial role in influencing the traffic system. Unfortunately, the neglect of these essential environmental aspects can lead to severe repercussions, especially under adverse weather conditions, including a decline in accuracy and the emergence of anomalies. To mitigate the uncertainties arising from the traffic environment, We proposed an Edge-based Multi-task Safety-oriented Environmental (Edge-MuSE) sensing system. Edge-MuSE is designed to provide an extensive perception of the traffic environment, encompassing temperature, humidity, image dehazing, visibility measurement, and road surface condition classification. This innovative system is tailored for comprehensive, efficient, and cost-effective real-time monitoring, enhancing the reliability and safety of traffic management systems.
-
-
 
 ## Integrated Sensing Technologies
 
