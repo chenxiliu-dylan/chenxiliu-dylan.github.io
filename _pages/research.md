@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
@@ -59,7 +59,8 @@ Addressing data redundancy and boosting efficiency for a comprehensive traffic s
 To track objects across multiple cameras and help the public agencies collect the link travel time and speed information without any sensitive privacy information, an Edge-empowered Cooperative Multi-camera Sensing (ECoMS) System is proposed. ECoMS presents a novel algorithmic and edge-server cooperative system framework to push edge computing and multi-camera re-identification workflow serving for traffic sensing based on cooperative IoT architecture. On the algorithm side, ECoMS proposes a light-weight edge-based computer vision framework for vehicle detection, tracking, and representation selection in a real-time manner. Then, by only sending the objects’ representations to the edge-server, the high-bandwidth data transmission and the heavy post-processing system can be abandoned. Further, a hierarchical clip-based deep vehicle re-identification framework is proposed and integrated into ECoMS, and significantly outperforms other state-of-the-art methods with 92.43% Rank-1 accuracy. Finally, a cooperative cross-camera traffic information estimation framework based on kernel density estimation with kernel smoother is implemented, which can get the precise and reliable cross-region traffic parameters (link travel time, speed and area OD) and distributions (less than 1.01 KL distance).
 
 ---
-# Distributed Machine Intelligence for Smart and Connected Transportation Systems
+
+# Distributed Machine Intelligence for Smart and Connected Systems
 
 <table>
     <tr>
