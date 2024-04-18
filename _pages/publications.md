@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -59,7 +59,7 @@ author_profile: true
 10. **C. Liu**, H. Yang, R. Ke and Y. Wang*. "Edge-based Automatic Real-time Road Surface Condition Monitoring System (RSCMS) based on Single Monocular Surveillance Camera.", Proceedings of the 102nd Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2023.
 11. M. Zhu, H. Yang, **C. Liu** and Y. Wang*. "Multi-Agent Deep Reinforcement Learning for Network-Wide Traffic Signal Control." Accepted, Proceedings of the 102nd Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2023.
 12. H. Yang, **C. Liu**, M. Zhu, Y. Wang*. "Cooperative Perception and Interaction Smart Node for Non-motorized Users and Disabilities Empowered by Edge Ensemble Learning (TRBAM-23-04541)." Proceedings of the 102nd Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2023.
-13. **C. Liu**, H. Yang, S. Yin, G. Dolley, and Y. Wang*. "Edge-based Real-time Roadway Environment Detection and Warning System for Traffic Safety based on Single Monocular Surveillance Camera", **First Prize**, **Lectern Session**, 2nd MetroLab Network's Annual Summit, Chicago, IL, USA, May 2022.
+13. **C. Liu**, H. Yang, S. Yin, G. Dolley, and Y. Wang*. "Edge-based Real-time Roadway Environment Detection and Warning System for Traffic Safety based on Single Monocular Surveillance Camera", <span style="color:darkred"> **First Prize** <span style="color:darkred">, **Lectern Session**, 2nd MetroLab Network's Annual Summit, Chicago, IL, USA, May 2022.
 14. **C. Liu**, H. Yang, Z. Cui, W. Sun, and Y. Wang*. "3D Structural Information Sensing System (3D-SISS) based on Car Keypoints Detection with Single Monocular Surveillance Camera (TRBAM-22-04562)", Proceedings of the 101st Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2022.
 15. R. Ke, C. Liu, H. Yang, W. Sun and Y. Wang*. "Real-Time Traffic and Road Surveillance with Parallel Edge Intelligence", <span style="color:darkred"> **Outstanding Paper Award** </span>, The 2nd IEEE International Conference on Digital Twins and Parallel Intelligence (IEEE DTPI), Boston, MA, USA, Oct. 2022.
 16. M. Tsai, Z. Cui, **C. Liu**, H. Yang and Y. Wang*. "An Incremental Learning-Based Framework for Non-Stationary Traffic Representations Clustering and Forecasting." Proceedings of the 25th IEEE International Conference on Intelligent Transportation Systems (ITSC 2022), Macau, China, Oct. 2022.
@@ -77,7 +77,6 @@ author_profile: true
 28. H. Yang, M. Zhu, **C. Liu**, and Y. Wang*. "A Novel Framework for City-scale Road Network Congestion Prediction and Cascading Analysis based on Multi-Target Multi-Camera Tracking (MTMCT)." Proceedings of the 2020 ASCE International Conference on Transportation and Development (ICTD), Seattle, WA, USA, May 2020.
 29. H. Yang, **C. Liu**, M. Zhu, W. Sun, and Y. Wang*. "Hybrid Data-fusion Model for Short-term Road Hazardous Segments Identification based on the Acceleration and Deceleration Information." Proceedings of the 2020 ASCE International Conference on Transportation and Development (ICTD), Seattle, WA, USA, May 2020.
 30. H. Yang, **C. Liu**, X. Ban, C. Zhang, and Y. Wang*. "Cell-speed Prediction Neural Network (CPNN): A Deep Learning Approach for Trip-based Speed Prediction (TRBAM-19-02492)." Proceedings of the 98th Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2019.
-    
 
 # Patents Submitted & Awarded
 
