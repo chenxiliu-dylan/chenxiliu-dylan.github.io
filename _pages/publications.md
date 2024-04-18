@@ -12,10 +12,7 @@ author_profile: true
 
 ---
 
----
-
 # Refereed Journal Publications
-
 
 <table>
     <tr>
