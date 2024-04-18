@@ -18,7 +18,7 @@ As deep learning technologies increasingly integrate into transportation systems
 
 ## Comprehensive traffic environment perception with edge intelligence
 
-> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/environment2.png" width="300" hspace="20"></a>
+> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/environment2.png" width="300" hspace="20">
 > The physical traffic environment, characterized by factors plays a crucial role in influencing the traffic system. Unfortunately, the neglect of these essential environmental aspects can lead to severe repercussions, especially under adverse weather conditions, including a decline in accuracy and the emergence of anomalies. To mitigate the uncertainties arising from the traffic environment, We proposed an Edge-based Multi-task Safety-oriented Environmental (Edge-MuSE) sensing system. Edge-MuSE is designed to provide an extensive perception of the traffic environment, encompassing temperature, humidity, image dehazing, visibility measurement, and road surface condition classification. This innovative system is tailored for comprehensive, efficient, and cost-effective real-time monitoring, enhancing the reliability and safety of traffic management systems.
 
 ---
