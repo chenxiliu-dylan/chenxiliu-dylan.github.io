@@ -57,7 +57,7 @@ Undergraduate/graudate visitors are also welcome.
 
 * <span style="color:darkred"> New! </span> Apr. 2024. I will join the Department of Civil and Environmental Engineering at the [University of Utah as an Assistant Professor](https://www.civil.utah.edu/faculty/) in the upcming autumn semester.
 * <span style="color:darkred"> New! </span> Apr. 2024. A new forum paper "Potentials and Challenges of AI-Empowered Solutions to Urban Transportation Infrastructure Systems (UTIS): NSF AI-Transportation Workshop Phase I" was accepted by Journal of Transportation Engineering, Part A: Systems.
-* <span style="color:darkred"> New! </span> Mar. 2024. A new research paper "[Traffic Performance Score: Measure Urban Mobility and Online Predict Near-term Traffic like Weather Forecast.](https://journals.sagepub.com/doi/abs/10.1177/03611981231222232)" Transportation Research Record" was published on Transpotation Research Record.
+* <span style="color:darkred"> New! </span> Mar. 2024. A new research paper "[Traffic Performance Score: Measure Urban Mobility and Online Predict Near-term Traffic like Weather Forecast.](https://journals.sagepub.com/doi/abs/10.1177/03611981231222232)" was published on Transpotation Research Record.
 * <span style="color:darkred"> New! </span> Mar. 2024. I was invited to serve as a member of the Edge Computing Subcommittee under the [TRB Standing Committee on AI and Advanced Computing Applications](https://sites.google.com/view/trbaed50).
 * <span style="color:darkred"> New! </span> Feb. 2024. I have been invited to join the editorial board of [Digital Transportation and Safety](https://www.maxapress.com/dts/specials) as a young member.
 
@@ -76,12 +76,17 @@ Undergraduate/graudate visitors are also welcome.
 
 As deep learning technologies increasingly integrate into transportation systems, concerns are escalating regarding the system resilience and adaptability in the face of a range of uncertainties, including variable environmental factors, fluctuating traffic conditions, and irregular distributions of road users. The development of an adaptive and autonomous traffic system through cyber-physical cooperation promises a transformative approach to mitigating such uncertainties, ensuring more resilient, safer, and equitable transportation networks.
 
+> <a href="https://ieeexplore.ieee.org/document/10249217"><img style="float: left" src="https://chenxiliu-dylan.github.io/images/environment.png" width="300" hspace="20"></a>
+> The physical traffic environment, characterized by factors plays a crucial role in influencing the traffic system. Unfortunately, the neglect of these essential environmental aspects can lead to severe repercussions, especially under adverse weather conditions, including a decline in accuracy and the emergence of anomalies. To mitigate the uncertainties arising from the traffic environment, I have proposed an Edge-based Multi-task Safety-oriented Environmental (Edge-MuSE) sensing system. Edge-MuSE is designed to provide an extensive perception of the traffic environment, encompassing temperature, humidity, image dehazing, visibility measurement, and road surface condition classification. This innovative system is tailored for comprehensive, efficient, and cost-effective real-time monitoring, enhancing the reliability and safety of traffic management systems.
+
+
+
 ## Integrated Sensing Technologies
 
-## Smart and Connected Transportation Systems
+Many current traffic sensing systems often face significant challenges due to the limitations of isolated sensing mechanisms, leading to not only sensor saturation and data overload, but also results in a fragmented traffic conditions awareness. Cooperative sensing technologies offer a transformative solution by integrating data from multiple sources, both within sensor unit (intra-sensor) and among various entities (inter-sensor), to enable a comprehensive understanding of traffic scenarios that enhances decision-making and improves hazard awareness.
 
+## Distributed Machine Intelligence for Smart and Connected Transportation Systems
 
-
-
-
+Distributed Machine Intelligence stands as a critical innovation for transportation systems, offering decentralized, privacy preserving, and robust
+processing capability that enhance safety and smart management across infrastructures
 
