@@ -1,9 +1,18 @@
 ---
 layout: archive
-title: "Honors & Awards"
+title: ""
 permalink: /award/
 author_profile: true
 ---
+
+# Honors & Awards
+
+<table>
+    <tr>
+        <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: 0.05px solid white; border-left: 0.05px solid white; border-right: 0.05px solid white; padding: 10px; height: 1px;">
+        </td>
+    </tr>
+</table>
 
 ---
 
