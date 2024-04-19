@@ -18,7 +18,7 @@ As deep learning technologies increasingly integrate into transportation systems
 
 ## Comprehensive traffic environment perception with edge intelligence
 
-> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/environment2.png" style="width:50%; height: auto">
+> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/environment2.png" width="400" hspace="20">
 > **Motivation**: The physical traffic environment, characterized by factors plays a crucial role in influencing the traffic system. Unfortunately, the neglect of these essential environmental aspects can lead to severe repercussions, especially under adverse weather conditions, including a decline in accuracy and the emergence of anomalies.
 > 
 > **Research Summary**: To mitigate the uncertainties arising from the traffic environment, we proposed an Edge-based Multi-task Safety-oriented Environmental (Edge-MuSE) sensing system. Edge-MuSE is designed to provide an extensive perception of the traffic environment, encompassing temperature, humidity, image dehazing, visibility measurement, and road surface condition classification. This innovative system is tailored for comprehensive, efficient, and cost-effective real-time monitoring, enhancing the reliability and safety of traffic management systems. ([Learn more](https://ieeexplore.ieee.org/abstract/document/10249217))
@@ -27,7 +27,7 @@ As deep learning technologies increasingly integrate into transportation systems
 
 ## Multi-scale representation learning empowered crowd sensing
 
-> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/crowd.gif" style="width:50%; height: auto">
+> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/crowd.gif" width="400" hspace="20">
 > **Motivation**: As urban populations rise, the surge in road users within confined urban spaces leads to densely crowded scenarios, posing significant safety and mobility challenges for transportation systems. Sensing methods that rely on individual feature processing and analysis can be heavily compromised by occlusions, intricate backgrounds and diverse crowd density, often resulting in a marked decline in perception accuracy.
 > <img style="float: left" src="https://chenxiliu-dylan.github.io/images/crowd3.gif" width="400" hspace="20">
 > **Research Summary**: To address the challenges, I proposed an ensemble sensing scheme, Scale-Aware Representation Learning Empowered Sensing (SARLES) System by leveraging an innovative encoder-decoder module for the extraction and processing of both global and local texture features. Uniquely, SARLES is designed to adjust to diverse transportation settings by using a multi-scale representation learning approach to generate crowd density maps for accurate crowd counting and individual pinpointing. Pioneer tests on surveillance systems in Tokyo and Shanghai highlighted its exceptional crowd perception capabilities, achieving an accuracy rate of 93.21%. This research paved the way for transportation safety and mobility applications when the system cannot capture sufficient features for accurate sensing and perception. ([Learn more](https://))
