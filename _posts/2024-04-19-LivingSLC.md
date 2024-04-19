@@ -1,7 +1,7 @@
 ---
 title: 'Living in Salt Lake City'
 date: 2024-04-19
-permalink: /posts/LivingSLC/
+permalink: /posts/2024/04/LivingSLC/
 tags:
   - Life Style
   - Outdoor Sports
