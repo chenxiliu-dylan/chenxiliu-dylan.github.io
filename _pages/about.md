@@ -45,7 +45,7 @@ If you are passionate about these research areas and enjoy living in [Salt Lake 
 
 Please send your transcript and CV to me at [chenxiliu42@gmail.com](). Let’s join forces and make a significant impacts while having fun along the way!😄
 
-#### Undergraduate/graudate visitors are also welcome.
+Undergraduate/graudate visitors are also welcome.
 
 ---
 
