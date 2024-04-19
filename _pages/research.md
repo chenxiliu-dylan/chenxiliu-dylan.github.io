@@ -27,16 +27,20 @@ As deep learning technologies increasingly integrate into transportation systems
 
 ## Multi-scale representation learning empowered crowd sensing
 
-> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/crowd.gif" width="400" hspace="20">
 > <img style="float: left" src="https://chenxiliu-dylan.github.io/images/crowd3.gif" width="400" hspace="20">
 > **Motivation**: As urban populations rise, the surge in road users within confined urban spaces leads to densely crowded scenarios, posing significant safety and mobility challenges for transportation systems. Sensing methods that rely on individual feature processing and analysis can be heavily compromised by occlusions, intricate backgrounds and diverse crowd density, often resulting in a marked decline in perception accuracy.
+> 
 > **Research Summary**: To address the challenges, I proposed an ensemble sensing scheme, Scale-Aware Representation Learning Empowered Sensing (SARLES) System by leveraging an innovative encoder-decoder module for the extraction and processing of both global and local texture features. Uniquely, SARLES is designed to adjust to diverse transportation settings by using a multi-scale representation learning approach to generate crowd density maps for accurate crowd counting and individual pinpointing. Pioneer tests on surveillance systems in Tokyo and Shanghai highlighted its exceptional crowd perception capabilities, achieving an accuracy rate of 93.21%. This research paved the way for transportation safety and mobility applications when the system cannot capture sufficient features for accurate sensing and perception. ([Learn more](https://))
 
 ---
 
 ## Bias Mitigation in uneven distributions by integrating physical information
 
-Given the inherently uneven and long-tailed distribution of road users in transportation scenarios, deep learning technologies and unintentionally amplify biases, resulting in diminished accuracy for less-represented classes like children and wheelchair users. Therefore, accurately quantifying and mitigating the bias of the deep learning empowered perception system to address the proposed equity issue is a significant research focus for daily traffic services and applications. In response, I conducted a trustworthy perception system based on few-shot and representation learning algorithms, DEbias Traffic Object Recognition (DETOR), for road users and traffic facilities detection and classification. By Employing DETOR, the residual neural network achieved a 290% boost in accuracy for minority transportation objects detection. The research developed a pioneer trustworthy transportation-adaptive de-biased traffic perception system, paving the way for more promising future transportation services and applications.
+> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/Debias.PNG" width="400" hspace="20">
+> 
+> > **Motivation**: Given the inherently uneven and long-tailed distribution of road users in transportation scenarios, deep learning technologies and unintentionally amplify biases, resulting in diminished accuracy for less-represented classes like children and wheelchair users. Therefore, accurately quantifying and mitigating the bias of the deep learning empowered perception system to address the proposed equity issue is a significant research focus for daily traffic services and applications.
+
+> **Research Summary**: In response, we conducted a trustworthy perception system based on few-shot and representation learning algorithms, DEbias Traffic Object Recognition (DETOR), for road users and traffic facilities detection and classification. By Employing DETOR, the residual neural network achieved a 290% boost in accuracy for minority transportation objects detection. The research developed a pioneer trustworthy transportation-adaptive de-biased traffic perception system, paving the way for more promising future transportation services and applications.
 
 ---
 
