@@ -40,4 +40,14 @@ author_profile: true
 
 1. Winner in Mobility Track, First MetroLab Student Cup Organized by MetroLab Network, for project "Curbside Parking Monitoring and Management Using Edge Computing Technology". Dec. 2020.
 2. Outstanding Award (6/1500), Third Di-Tech Smart Traffic Signal AI Algorithm Competition organized by Didi Chuxing Technology Co., Mar. 2018.
+3. Travel Award, College of Engineering, University of Washington, 2018, 2020, 2022.
+4. Travel Award, Pacific Northwest Transportation Consortium (PacTrans) Region 10 University Transportation Center, 2018, 2019, 2020, 2022, 2023.
+5. Runner-up, Structural Design Competition, Tsinghua University, Beijing, China, Oct. 2016.
+6. Runner-up, Transportation Science & Technology Competition, Tsinghua University, Beijing, China, May 2016.
+7. Outstanding Contribution Intern Award, Wuhan Planning \& Designing Institute, Wuhan, China, Aug. 2015.
+8. Outstanding Social Work Award, Summer Practice Program, Tsinghua University, Beijing, China, Oct. 2014.
+9. Outstanding Voluntary Teaching Award, Summer Practice Program, Tsinghua University, Beijing, China, Oct. 2014.
+10. University Scholarship, Excellent Practice Team Leader Scholarship, Tsinghua University, Beijing, China, Sep. 2014.
+11. Second Prize, China Undergraduate Mathematical Contest in Modeling, Tsinghua University, Beijing, China, Jul. 2014.
+12. First Prize (Top 100/300,000)}, National Chinese Physics Olympiad (CPhO), China, Oct. 2012.
 

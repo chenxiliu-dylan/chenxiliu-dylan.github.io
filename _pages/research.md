@@ -58,8 +58,8 @@ Many current traffic sensing systems often face significant challenges due to th
 
 ## Cooperative multi-task surveillance and connected IoT system
 
-> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/COCO.png" width="400" hspace="20">
 > <img style="float: left" src="https://chenxiliu-dylan.github.io/images/testbed.png" width="400" hspace="20">
+> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/COCO.png" width="400" hspace="20">
 > 
 > **Research Summary**: Addressing data redundancy and boosting efficiency for a comprehensive traffic scene perception, the research proposes the concept of "Sensing as a Service (SaaS)", a demand-driven sensing scheme, and implements it to Cooperative and Comprehensive Smart Edge Node for Sensing and OpeRation (COCO-SENSOR) system. COCO-SENSOR is a cutting-edge multi-task sensing system and designed to fulfil critical real-world needs in single unit: real-time traffic and environmental monitoring, precise recognition and classification of road users, and seamless live communication among infrastructures, transportation agencies and road users, encapsulating a comprehensive approach to traffic management and safety. By incorporating advanced sensing technologies and a cooperative mechanism alongside parallel computing, COCO-SENSOR optimally allocates edge device computational resources. Implemented across three testbeds, complete with a well-developed sensor unit, mobile app, and an informative dashboard, COCO-SENSOR has demonstrated a remarkable ability to bridge the divide between sensory data and traffic service needs, achieving stellar application performance with over 95% accuracy and a consistent 30 FPS efficiency. [(Learn more)](https://doi.org/10.1177/03611981231160174)
 
