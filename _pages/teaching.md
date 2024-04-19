@@ -20,8 +20,8 @@ author_profile: true
 
 ### Teaching Assistant
 
-* Graduate level course: CET 590 Traffic Systems Opertation, University of Washington, Seattle, Autumn 2022 
-* Undergraduate level course: CEE 327 Transportation Engineering, Seattle, Winter, 2024
+* Graduate level course: CET 590 Traffic Systems Opertation, University of Washington, Seattle, Autumn 2022
+* Undergraduate level course: CEE 327 Transportation Engineering, University of Washington, Seattle, Winter, 2024
 
 ### Guest Lecture
 
