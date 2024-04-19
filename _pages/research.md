@@ -87,8 +87,6 @@ processing capability that enhance safety and smart management across infrastruc
 ## Collaborative traffic perception and control system
 
 > <img style="float: left" src="https://chenxiliu-dylan.github.io/images/RL_arch.png" width="400" hspace="20">
-> <img style="float: left" src="https://chenxiliu-dylan.github.io/images/Gate03.png" width="400" hspace="20">
-> 
 > **Research Summary**: The fusion of traffic perception and control systems facilitates a dynamic and proactive approach to traffic management, markedly diminishing congestion and enhancing traffic flow. Our research introduces the Predictive Empowered Assignment scheme for Reversible Lane (PEARL), which leverages real-time traffic sensing to enable dynamic reversible lane control, informed by short-term traffic flow forecasts. This strategy aims to optimize throughput and minimize delays. The real-time predictive control scheme employs an iterative approach, allowing the system to anticipate and plan for future traffic scenarios, thereby optimizing current lane assignments. Field experiments demonstrate that PEARL effectively boosts total throughput by 9.93%, showcasing its potential for practical implementation in contemporary traffic systems.
 
 ---
