@@ -41,9 +41,11 @@ I am pleased to offer fully funded Ph.D. positions starting from Autumn 2024 in 
 * Smart Infrastructure
 * Connected and autonmous transportation systems
 
-If you are passionate about these research areas and enjoy living in Salt Lake City, which offers world-class skiing and numerous national parks, I would be delighted to consider you for our team. Please send your transcript and CV to [chenxiliu42@gmail.com](). Let's get together and have some fun!
+If you are passionate about these research areas and enjoy living in [Salt Lake City](https://en.wikipedia.org/wiki/Salt_Lake_City), which offers [world-class skiing](https://www.visitutah.com/plan-your-trip/plan-your-ski-trip/utahs-easy-access) and [numerous amazing national parks](https://www.nps.gov/state/ut/index.htm), I would be delighted to consider you for our team at [University of Utah](https://en.wikipedia.org/wiki/University_of_Utah). Dedicated research experience or background is NOT required. We are looking for candidates who are driven by passion for the field and a commitment to long-term goals. Together, we can develop our research expertise.
 
-Undergraduate/graudate visitors are also welcome.
+Please send your transcript and CV to me at [chenxiliu42@gmail.com](). Let’s join forces and make a significant impacts while having fun along the way!😄
+
+#### Undergraduate/graudate visitors are also welcome.
 
 ---
 
