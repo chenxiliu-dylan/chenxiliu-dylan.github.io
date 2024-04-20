@@ -10,7 +10,7 @@ author_profile: true
 [//]: # (  - /resume)
 ---
 
-You can find my full CV [here](https://https://chenxiliu-dylan.github.io/files/CV_0419_2024.pdf).
+You can find my full CV [here](https://chenxiliu-dylan.github.io/files/CV_0419_2024.pdf).
 
 ---
 
