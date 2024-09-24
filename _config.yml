@@ -27,11 +27,11 @@ author:
   avatar           : "lukcy and kane.jpg"
   name             : "Chenxi (Dylan) Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate <br /> Civil & Environmental Engineering <br /> University of Washington, Seattle <br /> <br /> Incoming Assistant Professor <br /> Civil & Environmental Engineering <br /> University of Utah"
-  location         : "Seattle, WA"
-  employer         : "University of Washington"
+  bio              : "Assistant Professor <br /> Civil & Environmental Engineering <br /> University of Utah"
+  location         : "Salt Lake City, Utah"
+  employer         : "University of Utah"
   uri              : # URL
-  email            : "lcx2017@uw.edu" 
+  email            : "chenxi.liu@utah.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
