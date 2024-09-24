@@ -27,7 +27,7 @@ redirect_from:
     </tr>
 </table>
 
-I am Chenxi Liu (刘晨曦), and you may also call me Dylan. Currently, I am a Ph.D. Candidate of [STAR Lab](http://www.uwstarlab.org/) in Civil & Environmental Engineering at [University of Washington Seattle](https://www.ce.washington.edu/). In Autumn 2024, I will begin my role as an Assistant Professor in Civil and Environmental Engineering at [University of Utah](https://www.civil.utah.edu/). I earned my Bachelor's degree in Civil Engineering from [Tsinghua University](https://www.civil.tsinghua.edu.cn/ceen/) in 2017 and completed my Master's degree in Civil and Environmental Engineering at the [University of Washington](https://www.ce.washington.edu/) in 2020.
+I am Chenxi Liu (刘晨曦), and you may also call me Dylan. Currently, I am an Assistant Professor in the Department of Civil and Environmental Engineering at the [University of Utah](https://www.civil.utah.edu/). I earned my Bachelor's degree in Civil Engineering from [Tsinghua University](https://www.civil.tsinghua.edu.cn/ceen/) in 2017, and completed my MS and Ph.D. degree in Civil and Environmental Engineering at the [University of Washington](https://www.ce.washington.edu/) in 2020 and 2024, respecitively.
 
 My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity, and resiliency. More specifically, I prefer to develop **advanced traffic sensing technologies** (traffic environment sensing, 3D object sensing, crowds sensing, cooperative sensing) with **distributed machine intelligence** (edge computing) to build a **connected and smart transportation system** for various applications (SPaT challenge, intersection safety, dilemma zone mitigation).
 
@@ -48,8 +48,7 @@ I am pleased to offer fully funded Ph.D. positions starting from Autumn 2024 in 
 * Cyber-physical cooperation
 * Distributed computing
 * Predictive control methods
-* Smart Infrastructure
-* Connected and autonomous transportation systems
+* Generative Models
 
 If you are passionate about these research areas and enjoy living in [Salt Lake City](https://en.wikipedia.org/wiki/Salt_Lake_City), which offers [world-class skiing](https://www.visitutah.com/plan-your-trip/plan-your-ski-trip/utahs-easy-access) and [numerous amazing national parks](https://www.nps.gov/state/ut/index.htm), I would be delighted to consider you for our team at [University of Utah](https://en.wikipedia.org/wiki/University_of_Utah). Dedicated research experience or background is NOT required. We are looking for candidates who are driven by passions for the field and a commitment to long-term goals. Together, we can develop our research expertise.
 
