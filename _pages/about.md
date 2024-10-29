@@ -42,7 +42,7 @@ My research focused on the situation-aware customized machine intelligence to es
     </tr>
 </table>
 
-I am pleased to offer fully funded Ph.D. positions starting from Autumn 2024 in the [Department of Civil and Environmental Engineering at University of Utah](https://www.civil.utah.edu). Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
+I am pleased to offer fully funded Ph.D. positions starting from Autumn 2025 in the [Department of Civil and Environmental Engineering at University of Utah](https://www.civil.utah.edu). Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
 
 * Integrated sensing technologies
 * Cyber-physical cooperation
@@ -52,7 +52,7 @@ I am pleased to offer fully funded Ph.D. positions starting from Autumn 2024 in 
 
 If you are passionate about these research areas and enjoy living in [Salt Lake City](https://en.wikipedia.org/wiki/Salt_Lake_City), which offers [world-class skiing](https://www.visitutah.com/plan-your-trip/plan-your-ski-trip/utahs-easy-access) and [numerous amazing national parks](https://www.nps.gov/state/ut/index.htm), I would be delighted to consider you for our team at [University of Utah](https://en.wikipedia.org/wiki/University_of_Utah). Dedicated research experience or background is NOT required. We are looking for candidates who are driven by passions for the field and a commitment to long-term goals. Together, we can develop our research expertise.
 
-Please send your transcript and CV to me at [chenxiliu42@gmail.com](). Let’s join forces and make a significant impact while having fun along the way!😄
+Please send your transcript and CV to me at [chenxi.liu@utah.edu](). Let’s join forces and make a significant impact while having fun along the way!😄
 
 Undergraduate/graduate visitors are also welcome.
 
@@ -67,6 +67,7 @@ Undergraduate/graduate visitors are also welcome.
     </tr>
 </table>
 
+* <span style="color:darkred"> New! </span> Sep. 2024. The forum paper, "Potentials and Challenges of AI-Empowered Solutions to Urban Transportation Infrastructure Systems (UTIS): NSF AI-Transportation Workshop Phase I" was selected as the [ASCE Editor's Choice](https://ascelibrary.org/jtepbs/te_editors_choice_collection) in Issue 9 - September 2024
 * <span style="color:darkred"> New! </span> Apr. 2024. I will join the Department of Civil and Environmental Engineering at the [University of Utah as an Assistant Professor](https://www.civil.utah.edu/faculty/) in the upcming autumn semester.
 * <span style="color:darkred"> New! </span> Apr. 2024. A new forum paper, "Potentials and Challenges of AI-Empowered Solutions to Urban Transportation Infrastructure Systems (UTIS): NSF AI-Transportation Workshop Phase I" was accepted by Journal of Transportation Engineering, Part A: Systems.
 * <span style="color:darkred"> New! </span> Mar. 2024. A new research paper, "[Traffic Performance Score: Measure Urban Mobility and Online Predict Near-term Traffic like Weather Forecast.](https://journals.sagepub.com/doi/abs/10.1177/03611981231222232)" was published on Transportation Research Record.
