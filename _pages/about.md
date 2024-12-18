@@ -42,13 +42,14 @@ My research focused on the situation-aware customized machine intelligence to es
     </tr>
 </table>
 
-I am pleased to offer fully funded Ph.D. positions starting from Autumn 2025 in the [Department of Civil and Environmental Engineering at University of Utah](https://www.civil.utah.edu). Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
+I am pleased to offer fully funded Ph.D. positions starting from Spring/Autumn 2026 in the [Department of Civil and Environmental Engineering at University of Utah](https://www.civil.utah.edu). Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
 
 * Integrated sensing technologies
 * Cyber-physical cooperation
 * Distributed computing
 * Predictive control methods
-* Generative Models
+* Generative Artificial Intelligence
+* 
 
 If you are passionate about these research areas and enjoy living in [Salt Lake City](https://en.wikipedia.org/wiki/Salt_Lake_City), which offers [world-class skiing](https://www.visitutah.com/plan-your-trip/plan-your-ski-trip/utahs-easy-access) and [numerous amazing national parks](https://www.nps.gov/state/ut/index.htm), I would be delighted to consider you for our team at [University of Utah](https://en.wikipedia.org/wiki/University_of_Utah). Dedicated research experience or background is NOT required. We are looking for candidates who are driven by passions for the field and a commitment to long-term goals. Together, we can develop our research expertise.
 
