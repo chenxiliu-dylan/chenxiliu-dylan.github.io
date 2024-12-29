@@ -27,7 +27,7 @@ redirect_from:
     </tr>
 </table>
 
-I am Chenxi Liu (刘晨曦), and you may also call me Dylan. Currently, I am an Assistant Professor in the Department of Civil and Environmental Engineering at the [University of Utah](https://www.civil.utah.edu/). I earned my Bachelor's degree in Civil Engineering from [Tsinghua University](https://www.civil.tsinghua.edu.cn/ceen/) in 2017, and completed my MS and Ph.D. degree in Civil and Environmental Engineering at the [University of Washington](https://www.ce.washington.edu/) in 2020 and 2024, respecitively.
+I am Chenxi Liu (刘晨曦), and you may also call me Dylan. I am an Assistant Professor in the Department of Civil and Environmental Engineering at the [University of Utah](https://www.civil.utah.edu/). I earned my Bachelor's degree in Civil Engineering from [Tsinghua University](https://www.civil.tsinghua.edu.cn/ceen/) in 2017, and completed my MS and Ph.D. degree in Civil and Environmental Engineering at the [University of Washington](https://www.ce.washington.edu/) in 2020 and 2024, respecitively.
 
 My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity, and resiliency. More specifically, I prefer to develop **advanced traffic sensing technologies** (traffic environment sensing, 3D object sensing, crowds sensing, cooperative sensing) with **distributed machine intelligence** (edge computing) to build a **connected and smart transportation system** for various applications (SPaT challenge, intersection safety, dilemma zone mitigation).
 
