@@ -42,7 +42,7 @@ My research focused on the situation-aware customized machine intelligence to es
     </tr>
 </table>
 
-I am pleased to offer fully funded Ph.D. positions starting from Spring/Autumn 2026 in the [Department of Civil and Environmental Engineering at University of Utah](https://www.civil.utah.edu). Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
+I am pleased to offer fully funded Ph.D. positions starting from Autumn 2026 in the [Department of Civil and Environmental Engineering at University of Utah](https://www.civil.utah.edu). Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
 
 * Integrated sensing technologies
 * Cyber-physical cooperation
