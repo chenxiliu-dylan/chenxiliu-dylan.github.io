@@ -1,3 +1,10 @@
+---
+layout: archive
+title: ""
+permalink: /teaching/
+author_profile: true
+---
+
 # **Lab Director**
  **Chenxi (Dylan) Liu**
 <table>
