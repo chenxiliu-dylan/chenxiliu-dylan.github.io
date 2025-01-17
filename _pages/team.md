@@ -30,7 +30,41 @@ author_profile: true
     </tr>
 </table>
 
-**Fengze Yang**
-![Fengze Photo](https://chenxiliu-dylan.github.io/images/fengze.jpg "Fengze's photo")
+## Ph.D. Students
 
-*Research Assistant*
+<div style="display: flex; gap: 20px; justify-content: space-around; flex-wrap: wrap;">
+
+  <div style="width: 30%; min-width: 200px; text-align: center;">
+    <img src="https://chenxiliu-dylan.github.io/images/fengze.jpg" alt="Student 1 Photo" style="border-radius: 50%;">
+    <h3>Student 1</h3>
+    <p>
+      A short bio describing Student 1’s focus or achievements.
+    </p>
+    <p>
+      <a href="#">LinkedIn</a> | <a href="#">Twitter</a> | <a href="#">GitHub</a>
+    </p>
+  </div>
+  
+  <div style="width: 30%; min-width: 200px; text-align: center;">
+    <img src="https://chenxiliu-dylan.github.io/images/bo.png" alt="Student 2 Photo" style="border-radius: 50%;">
+    <h3>Student 2</h3>
+    <p>
+      A short bio describing Student 2’s focus or achievements.
+    </p>
+    <p>
+      <a href="#">LinkedIn</a> | <a href="#">Twitter</a> | <a href="#">GitHub</a>
+    </p>
+  </div>
+  
+  <div style="width: 30%; min-width: 200px; text-align: center;">
+    <img src="https://chenxiliu-dylan.github.io/images/xuewen.jpg" alt="Student 3 Photo" style="border-radius: 50%;">
+    <h3>Student 3</h3>
+    <p>
+      A short bio describing Student 3’s focus or achievements.
+    </p>
+    <p>
+      <a href="#">LinkedIn</a> | <a href="#">Twitter</a> | <a href="#">GitHub</a>
+    </p>
+  </div>
+
+</div>
