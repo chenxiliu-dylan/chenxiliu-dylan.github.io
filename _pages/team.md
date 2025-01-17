@@ -39,15 +39,13 @@ author_profile: true
     <h1 style="margin-top: 0;">Chenxi Dylan Liu, Ph.D. </h1>
     
     <p>
-      Write a short bio or introduction about yourself here.
-      Summarize your research interests, notable accomplishments,
-      and your role as the Director of the lab.
+      My research lies at the intersection of AI, transportation engineering, and connected/autonomous systems, focusing on designing situation-aware, customized machine intelligence for safer, more equitable, and more resilient mobility. Specifically, I integrate real-time data from vehicle sensors, infrastructure, and external sources with generative AI methods—including Large Language Models, Large Vision Models, and diffusion models—to simulate rare or complex conditions and proactively manage transportation networks. This approach not only enhances safety by enabling robust training and decision-making for autonomous vehicles, but also addresses equity by generating representative datasets that help identify and mitigate biases, ensuring more inclusive transportation solutions.
     </p>
     <p>
-      Feel free to include more details:  
-      - Your academic background  
-      - Key collaborations  
-      - A short story about your motivation or philosophy in research  
+      Building on these foundations, my work advances resilience by exploring robust, fault-tolerant designs that can adapt to disruptions such as adverse weather, cyberattacks, and infrastructure failures. Leveraging generative AI models, I develop predictive frameworks that anticipate and respond swiftly to emergent issues, thereby minimizing congestion and preserving mobility. Through collaboration with stakeholders across academia, industry, and government, I aim to translate cutting-edge research into scalable, real-world applications that enhance safety, equity, and resiliency in our evolving transportation ecosystem.
+    </p>
+    <p>
+      I am eager to collaborate with academia, industry, and government to drive impactful research in connected and autonomous transportation. My approach fosters strong interdisciplinary teamwork, spanning from technical development to real-world application. Please feel free to reach out at [chenxi.liu@utah.edu]().
     </p>
   </div>
 
