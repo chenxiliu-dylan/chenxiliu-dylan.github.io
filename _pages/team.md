@@ -93,7 +93,7 @@ author_profile: true
 
   <!-- Right: Bio & Keywords -->
   <div style="flex: 2; min-width: 300px;">
-    <h3 style="margin-top: 0;">Student Name</h3>
+    <h3 style="margin-top: 0;">Fengze Yang</h3>
     
     <!-- Short Bio -->
     <p>
@@ -103,13 +103,111 @@ author_profile: true
     <!-- Keywords for Research Interests -->
     <p>
       <strong>Research Interests:</strong>
+      Large Language Models (LLMs), V2X Communication, Edge Computing, Traffic Safety, Smart Transportation Systems.
     </p>
-    <ul style="margin-top: 0;">
-      <li>Large Language Models (LLMs)</li>
-      <li>V2X Communication</li>
-      <li>Edge Computing</li>
-      <li>Traffic Safety</li>
-      <li>Smart Transportation Systems.</li>
+    </ul>
+    
+    <!-- Optionally: Contact / Social Links -->
+    <p>
+      <strong>Contact / Links:</strong><br>
+      <a href="[#](https://www.linkedin.com/in/fengze-yang-a35825215/)">LinkedIn</a> | 
+      <a href="#">Twitter</a> | 
+      <a href="#">GitHub</a>
+    </p>
+  </div>
+</div>
+
+
+
+
+<div style="
+  display: flex;
+  flex-wrap: wrap; 
+  margin-bottom: 2rem;        /* Spacing after each student section */
+  gap: 20px;                  /* Space between the image and text */
+  align-items: flex-start;    /* Align items at the top */
+">
+
+  <!-- Left: Student Photo -->
+  <div style="flex: 1; min-width: 200px;">
+    <img 
+      src="https://chenxiliu-dylan.github.io/images/bo_yu.png" 
+      alt="Student Photo"
+      style="
+        width: 100%;
+        height: auto;
+        border-radius: 8px;    /* Optional: rounded corners */
+        object-fit: cover;     /* Maintain aspect ratio */
+      "
+    >
+  </div>
+
+  <!-- Right: Bio & Keywords -->
+  <div style="flex: 2; min-width: 300px;">
+    <h3 style="margin-top: 0;">Bo Yu</h3>
+    
+    <!-- Short Bio -->
+    <p>
+      Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Open-source datasets and code are valuable for advancing research in the transportation field, just as they are in AI research. Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
+    </p>
+    
+    <!-- Keywords for Research Interests -->
+    <p>
+      <strong>Research Interests:</strong>
+      Intelligent Transportation Systems (ITS), Generative Models, Multi-modal Machine Learning, Reproducible Reasearch (RR) in transportation
+    </p>
+    </ul>
+    
+    <!-- Optionally: Contact / Social Links -->
+    <p>
+      <strong>Contact / Links:</strong><br>
+      <a href="[#](https://www.linkedin.com/in/fengze-yang-a35825215/)">LinkedIn</a> | 
+      <a href="#">Twitter</a> | 
+      <a href="#">GitHub</a>
+    </p>
+  </div>
+</div>
+
+
+
+
+
+<div style="
+  display: flex;
+  flex-wrap: wrap; 
+  margin-bottom: 2rem;        /* Spacing after each student section */
+  gap: 20px;                  /* Space between the image and text */
+  align-items: flex-start;    /* Align items at the top */
+">
+
+  <!-- Left: Student Photo -->
+  <div style="flex: 1; min-width: 200px;">
+    <img 
+      src="https://chenxiliu-dylan.github.io/images/xuewen_luo.jpg" 
+      alt="Student Photo"
+      style="
+        width: 100%;
+        height: auto;
+        border-radius: 8px;    /* Optional: rounded corners */
+        object-fit: cover;     /* Maintain aspect ratio */
+      "
+    >
+  </div>
+
+  <!-- Right: Bio & Keywords -->
+  <div style="flex: 2; min-width: 300px;">
+    <h3 style="margin-top: 0;">Xuewen Luo</h3>
+    
+    <!-- Short Bio -->
+    <p>
+      Hi, I’m Xuewen(Snow) Luo, an enthusiastic researcher blending transportation with a solid artificial intelligence background. My research centers on using advanced AI, such as multimodal large language models, to enhance perception and decision-making in autonomous driving and intelligent transportation systems. Beyond research, I love traveling, cooking, savoring diverse cuisines, and letting my imagination run wild—activities that spark creativity and fuel my passion for innovation. If you’re interested in my work, feel free to reach out. Let’s do some interesting and meaningful work together!
+    </p>
+    
+    <!-- Keywords for Research Interests -->
+    <p>
+      <strong>Research Interests:</strong>
+      Autonomous Driving, V2X, Intelligent Transportation System, Large Language Models (LLMs), Traffic Sensing
+    </p>
     </ul>
     
     <!-- Optionally: Contact / Social Links -->
