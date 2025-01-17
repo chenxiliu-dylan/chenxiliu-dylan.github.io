@@ -119,6 +119,12 @@ author_profile: true
 
 
 
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 2rem 0;">
+
+
+
+
 <div style="
   display: flex;
   flex-wrap: wrap; 
@@ -165,6 +171,12 @@ author_profile: true
     </p>
   </div>
 </div>
+
+
+
+
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 2rem 0;">
 
 
 
