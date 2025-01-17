@@ -39,10 +39,7 @@ author_profile: true
     <h1 style="margin-top: 0;">Chenxi Dylan Liu, Ph.D. </h1>
     
     <p>
-      My research lies at the intersection of AI, transportation engineering, and connected/autonomous systems, focusing on designing situation-aware, customized machine intelligence for safer, more equitable, and more resilient mobility. Specifically, I integrate real-time data from vehicle sensors, infrastructure, and external sources with generative AI methods—including Large Language Models, Large Vision Models, and diffusion models—to simulate rare or complex conditions and proactively manage transportation networks. This approach not only enhances safety by enabling robust training and decision-making for autonomous vehicles, but also addresses equity by generating representative datasets that help identify and mitigate biases, ensuring more inclusive transportation solutions.
-    </p>
-    <p>
-      Building on these foundations, my work advances resilience by exploring robust, fault-tolerant designs that can adapt to disruptions such as adverse weather, cyberattacks, and infrastructure failures. Leveraging generative AI models, I develop predictive frameworks that anticipate and respond swiftly to emergent issues, thereby minimizing congestion and preserving mobility. Through collaboration with stakeholders across academia, industry, and government, I aim to translate cutting-edge research into scalable, real-world applications that enhance safety, equity, and resiliency in our evolving transportation ecosystem.
+      My research lies at the intersection of AI, connected/autonomous systems, and transportation engineering, where I develop situation-aware, customized machine intelligence for safer, more equitable, and more resilient mobility. By integrating real-time data from vehicles, infrastructure, and external sources with generative AI (including LLMs, LVMs, and diffusion models), I can simulate rare or complex traffic conditions and proactively manage transportation networks. This approach enhances safety through robust training and decision-making, addresses equity by creating representative datasets that help mitigate biases, and fosters resilience through fault-tolerant designs capable of adapting to disruptions like adverse weather or cyberattacks. Ultimately, I aim to translate cutting-edge research into scalable, real-world solutions by collaborating with stakeholders across academia, industry, and government.
     </p>
     <p>
       I am eager to collaborate with academia, industry, and government to drive impactful research in connected and autonomous transportation. My approach fosters strong interdisciplinary teamwork, spanning from technical development to real-world application. Please feel free to reach out at [chenxi.liu@utah.edu]().
@@ -102,7 +99,7 @@ author_profile: true
       <strong>Contact / Links:</strong><br>
       <a href="mailto:fred.yang@utah.edu">Email</a> | 
       <a href="https://www.linkedin.com/in/fengze-yang-a35825215/">LinkedIn</a> | 
-      <a href="#">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=5i0PcJgAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </p>
   </div>
 </div>
