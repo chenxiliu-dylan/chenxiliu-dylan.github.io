@@ -14,14 +14,49 @@ author_profile: true
     </tr>
 </table>
 
-<!-- Director Section (full width) -->
-<div style="text-align:center; margin-bottom: 2rem;">
-  <img src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" alt="Director Photo" style="border-radius:50%;">
-  <h2>Dr. Your Name</h2>
-  <p>Director of XYZ Lab, leading research on ABC topics and collaborating with top institutions. Passionate about ...</p>
-  <p>
-    <a href="#">Website</a> | <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
-  </p>
+<!-- Director Section: Half-page Photo (Left), Info (Right) -->
+<div style="
+  display: flex;
+  flex-wrap: wrap;           /* Allows wrapping on smaller screens */
+  margin-bottom: 2rem;       /* Spacing below the section */
+">
+
+  <!-- Left: Large Photo -->
+  <div style="flex: 1; min-width: 300px;">
+    <img 
+      src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.jpg" 
+      alt="Director Photo"
+      style="
+        width: 100%;
+        height: auto;
+        border-radius: 8px;   /* Rounded corners if desired */
+        object-fit: cover;    /* Ensures the image scales nicely */
+      "
+    >
+  </div>
+
+  <!-- Right: Text about Yourself -->
+  <div style="flex: 1; min-width: 300px; padding-left: 1rem;">
+    <h1 style="margin-top: 0;">Dr. Your Name</h1>
+    <h3>Director of XYZ Lab at Some University</h3>
+    <p>
+      Write a short bio or introduction about yourself here.
+      Summarize your research interests, notable accomplishments,
+      and your role as the Director of the lab.
+    </p>
+    <p>
+      Feel free to include more details:  
+      - Your academic background  
+      - Key collaborations  
+      - A short story about your motivation or philosophy in research  
+    </p>
+    <p>
+      <strong>Contact / Social Links:</strong>  
+      <a href="#">Website</a> | <a href="#">LinkedIn</a> | 
+      <a href="#">Twitter</a> | <a href="#">GitHub</a>
+    </p>
+  </div>
+
 </div>
 
 
