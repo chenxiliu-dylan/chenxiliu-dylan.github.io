@@ -42,7 +42,7 @@ author_profile: true
       My research lies at the intersection of AI, connected/autonomous systems, and transportation engineering, where I develop situation-aware, customized machine intelligence for safer, more equitable, and more resilient mobility. By integrating real-time data from vehicles, infrastructure, and external sources with generative AI (including LLMs, LVMs, and diffusion models), I can simulate rare or complex traffic conditions and proactively manage transportation networks. This approach enhances safety through robust training and decision-making, addresses equity by creating representative datasets that help mitigate biases, and fosters resilience through fault-tolerant designs capable of adapting to disruptions like adverse weather or cyberattacks. Ultimately, I aim to translate cutting-edge research into scalable, real-world solutions by collaborating with stakeholders across academia, industry, and government.
     </p>
     <p>
-      I am eager to collaborate with academia, industry, and government to drive impactful research in connected and autonomous transportation. My approach fosters strong interdisciplinary teamwork, spanning from technical development to real-world application. Please feel free to reach out at <a href="mailto:chenxi.liu@utah.edu">chenxi.liu@utah.edu</a> | .
+      I am eager to collaborate with academia, industry, and government to drive impactful research in connected and autonomous transportation. My approach fosters strong interdisciplinary teamwork, spanning from technical development to real-world application. Please feel free to reach out at <a href="mailto:chenxi.liu@utah.edu">chenxi.liu@utah.edu</a>.
     </p>
   </div>
 
