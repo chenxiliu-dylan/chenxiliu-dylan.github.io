@@ -14,12 +14,15 @@ author_profile: true
     </tr>
 </table>
 
-<img style="float: left" src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" width="400" hspace="20">
-*Assistant Professor*
-
-*Department of Civil and Environmental Engineering*
-
-*University of Utah*
+<!-- Director Section (full width) -->
+<div style="text-align:center; margin-bottom: 2rem;">
+  <img src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" alt="Director Photo" style="border-radius:50%;">
+  <h2>Dr. Your Name</h2>
+  <p>Director of XYZ Lab, leading research on ABC topics and collaborating with top institutions. Passionate about ...</p>
+  <p>
+    <a href="#">Website</a> | <a href="#">LinkedIn</a> | <a href="#">Twitter</a>
+  </p>
+</div>
 
 
 # **Ph.D. Students**
@@ -29,8 +32,6 @@ author_profile: true
         </td>
     </tr>
 </table>
-
-## Ph.D. Students
 
 <div style="display: flex; gap: 20px; justify-content: space-around; flex-wrap: wrap;">
 
