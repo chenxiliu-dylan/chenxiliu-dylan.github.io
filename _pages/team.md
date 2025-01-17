@@ -21,7 +21,7 @@ author_profile: true
 ">
 
   <!-- Left: Large Photo -->
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 0.7; min-width: 300px;">
     <img 
       src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" 
       alt="Director Photo"
@@ -35,7 +35,7 @@ author_profile: true
   </div>
 
   <!-- Right: Text about Yourself -->
-  <div style="flex: 0.8; min-width: 300px; padding-left: 1rem;">
+  <div style="flex: 1.3; min-width: 300px; padding-left: 1rem;">
     <h1 style="margin-top: 0;">Chenxi Dylan Liu, Ph.D. </h1>
     <h3>Assistant Professor</h3>
     <h3>Department of Civil and Environmental Engineering</h3>
