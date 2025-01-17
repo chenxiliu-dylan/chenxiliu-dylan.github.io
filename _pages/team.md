@@ -24,7 +24,7 @@ author_profile: true
   <!-- Left: Large Photo -->
   <div style="flex: 1; min-width: 300px;">
     <img 
-      src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.jpg" 
+      src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" 
       alt="Director Photo"
       style="
         width: 100%;
@@ -37,8 +37,10 @@ author_profile: true
 
   <!-- Right: Text about Yourself -->
   <div style="flex: 1; min-width: 300px; padding-left: 1rem;">
-    <h1 style="margin-top: 0;">Dr. Your Name</h1>
-    <h3>Director of XYZ Lab at Some University</h3>
+    <h1 style="margin-top: 0;">Chenxi Dylan Liu, Ph.D. </h1>
+    <h3>Assistant Professor</h3>
+    <h3>Department of Civil and Environmental Engineering</h3>
+    <h3>University of Utah</h3>
     <p>
       Write a short bio or introduction about yourself here.
       Summarize your research interests, notable accomplishments,
