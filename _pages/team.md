@@ -13,6 +13,7 @@ author_profile: true
         </td>
     </tr>
 </table>
+
 <img style="float: left" src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" width="400" hspace="20">
 *Assistant Professor*
 *Department of Civil and Environmental Engineering*
@@ -28,5 +29,6 @@ author_profile: true
 </table>
 
 **Fengze Yang**
-<img style="float: left" src="https://chenxiliu-dylan.github.io/images/fengze.jpg" width="400" hspace="20">
+![Fengze Photo](https://chenxiliu-dylan.github.io/images/fengze.jpg "Fengze's photo")
+
 *Research Assistant*
