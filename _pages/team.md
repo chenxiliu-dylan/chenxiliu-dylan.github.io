@@ -37,9 +37,7 @@ author_profile: true
   <!-- Right: Text about Yourself -->
   <div style="flex: 2; min-width: 300px; padding-left: 1rem;">
     <h1 style="margin-top: 0;">Chenxi Dylan Liu, Ph.D. </h1>
-    <h3>Assistant Professor</h3>
-    <h3>Department of Civil and Environmental Engineering</h3>
-    <h3>University of Utah</h3>
+    
     <p>
       Write a short bio or introduction about yourself here.
       Summarize your research interests, notable accomplishments,
@@ -50,11 +48,6 @@ author_profile: true
       - Your academic background  
       - Key collaborations  
       - A short story about your motivation or philosophy in research  
-    </p>
-    <p>
-      <strong>Contact / Social Links:</strong>  
-      <a href="#">Website</a> | <a href="#">LinkedIn</a> | 
-      <a href="#">Twitter</a> | <a href="#">GitHub</a>
     </p>
   </div>
 
@@ -109,7 +102,7 @@ author_profile: true
     <!-- Optionally: Contact / Social Links -->
     <p>
       <strong>Contact / Links:</strong><br>
-      <a href="fred.yang@utah.edu">Email</a> | 
+      <a href="mailto:fred.yang@utah.edu">Email</a> | 
       <a href="https://www.linkedin.com/in/fengze-yang-a35825215/">LinkedIn</a> | 
       <a href="#">Google Scholar</a>
     </p>
