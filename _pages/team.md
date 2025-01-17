@@ -93,7 +93,7 @@ author_profile: true
 
   <!-- Right: Bio & Keywords -->
   <div style="flex: 2; min-width: 300px;">
-    <h3 style="margin-top: 0;">Fengze Yang</h3>
+    <h3 style="margin-top: 0;">Fengze Yang, Research Assistant</h3>
     
     <!-- Short Bio -->
     <p>
@@ -105,7 +105,6 @@ author_profile: true
       <strong>Research Interests:</strong>
       Large Language Models (LLMs), V2X Communication, Edge Computing, Traffic Safety, Smart Transportation Systems.
     </p>
-    </ul>
     
     <!-- Optionally: Contact / Social Links -->
     <p>
@@ -144,7 +143,7 @@ author_profile: true
 
   <!-- Right: Bio & Keywords -->
   <div style="flex: 2; min-width: 300px;">
-    <h3 style="margin-top: 0;">Bo Yu</h3>
+    <h3 style="margin-top: 0;">Bo Yu, Research Assistant</h3>
     
     <!-- Short Bio -->
     <p>
@@ -156,7 +155,6 @@ author_profile: true
       <strong>Research Interests:</strong>
       Intelligent Transportation Systems (ITS), Generative Models, Multi-modal Machine Learning, Reproducible Reasearch (RR) in transportation
     </p>
-    </ul>
     
     <!-- Optionally: Contact / Social Links -->
     <p>
@@ -196,7 +194,7 @@ author_profile: true
 
   <!-- Right: Bio & Keywords -->
   <div style="flex: 2; min-width: 300px;">
-    <h3 style="margin-top: 0;">Xuewen Luo</h3>
+    <h3 style="margin-top: 0;">Xuewen Luo, Research Assistant</h3>
     
     <!-- Short Bio -->
     <p>
@@ -208,7 +206,6 @@ author_profile: true
       <strong>Research Interests:</strong>
       Autonomous Driving, V2X, Intelligent Transportation System, Large Language Models (LLMs), Traffic Sensing
     </p>
-    </ul>
     
     <!-- Optionally: Contact / Social Links -->
     <p>
