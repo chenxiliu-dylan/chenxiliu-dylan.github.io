@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 # **Lab Director**
- **Chenxi (Dylan) Liu**
 <table>
     <tr>
         <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: 0.05px solid white; border-left: 0.05px solid white; border-right: 0.05px solid white; padding: 10px; height: 1px;">
@@ -36,7 +35,7 @@ author_profile: true
   </div>
 
   <!-- Right: Text about Yourself -->
-  <div style="flex: 1; min-width: 300px; padding-left: 1rem;">
+  <div style="flex: 0.8; min-width: 300px; padding-left: 1rem;">
     <h1 style="margin-top: 0;">Chenxi Dylan Liu, Ph.D. </h1>
     <h3>Assistant Professor</h3>
     <h3>Department of Civil and Environmental Engineering</h3>
