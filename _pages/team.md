@@ -93,7 +93,7 @@ author_profile: true
 
   <!-- Right: Bio & Keywords -->
   <div style="flex: 2; min-width: 300px;">
-    <h3 style="margin-top: 0;">Fengze Yang, Research Assistant</h3>
+    <h2 style="margin-top: 0;">Fengze Yang, Research Assistant</h2>
     
     <!-- Short Bio -->
     <p>
@@ -143,7 +143,7 @@ author_profile: true
 
   <!-- Right: Bio & Keywords -->
   <div style="flex: 2; min-width: 300px;">
-    <h3 style="margin-top: 0;">Bo Yu, Research Assistant</h3>
+    <h2 style="margin-top: 0;">Bo Yu, Research Assistant</h2>
     
     <!-- Short Bio -->
     <p>
@@ -194,7 +194,7 @@ author_profile: true
 
   <!-- Right: Bio & Keywords -->
   <div style="flex: 2; min-width: 300px;">
-    <h3 style="margin-top: 0;">Xuewen Luo, Research Assistant</h3>
+    <h2 style="margin-top: 0;">Xuewen Luo, Research Assistant</h2>
     
     <!-- Short Bio -->
     <p>
