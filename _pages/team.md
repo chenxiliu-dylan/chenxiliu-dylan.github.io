@@ -109,9 +109,9 @@ author_profile: true
     <!-- Optionally: Contact / Social Links -->
     <p>
       <strong>Contact / Links:</strong><br>
-      <a href="[#](https://www.linkedin.com/in/fengze-yang-a35825215/)">LinkedIn</a> | 
-      <a href="#">Twitter</a> | 
-      <a href="#">GitHub</a>
+      <a href="fred.yang@utah.edu">Email</a> | 
+      <a href="https://www.linkedin.com/in/fengze-yang-a35825215/">LinkedIn</a> | 
+      <a href="#">Google Scholar</a>
     </p>
   </div>
 </div>
@@ -147,7 +147,7 @@ author_profile: true
     
     <!-- Short Bio -->
     <p>
-      Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Open-source datasets and code are valuable for advancing research in the transportation field, just as they are in AI research. Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
+      Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
     </p>
     
     <!-- Keywords for Research Interests -->
@@ -159,9 +159,9 @@ author_profile: true
     <!-- Optionally: Contact / Social Links -->
     <p>
       <strong>Contact / Links:</strong><br>
-      <a href="[#](https://www.linkedin.com/in/fengze-yang-a35825215/)">LinkedIn</a> | 
-      <a href="#">Twitter</a> | 
-      <a href="#">GitHub</a>
+      <a href="#">Email</a> | 
+      <a href="https://www.linkedin.com/in/bo-yu-016984228/">LinkedIn</a> | 
+      <a href="#">Google Scholar</a>
     </p>
   </div>
 </div>
@@ -210,9 +210,9 @@ author_profile: true
     <!-- Optionally: Contact / Social Links -->
     <p>
       <strong>Contact / Links:</strong><br>
-      <a href="[#](https://www.linkedin.com/in/fengze-yang-a35825215/)">LinkedIn</a> | 
-      <a href="#">Twitter</a> | 
-      <a href="#">GitHub</a>
+      <a href="#">Email</a> | 
+      <a href="#">LinkedIn</a> | 
+      <a href="https://scholar.google.com/citations?hl=en&user=r-KCmWcAAAAJ">Google Scholar</a>
     </p>
   </div>
 </div>
