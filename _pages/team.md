@@ -16,7 +16,9 @@ author_profile: true
 
 <img style="float: left" src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" width="400" hspace="20">
 *Assistant Professor*
+
 *Department of Civil and Environmental Engineering*
+
 *University of Utah*
 
 
