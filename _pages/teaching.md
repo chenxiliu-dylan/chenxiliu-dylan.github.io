@@ -14,14 +14,9 @@ author_profile: true
     </tr>
 </table>
 
-### Invited Instructor
+### Instructor
 
-* Computer Vision in Transportation: Basic Knowledge and Applications, Tier 1 University Transportation Center (UTC), C2Smart Learning Hub, New York University (NYU), Winter 2022
-
-### Teaching Assistant
-
-* Graduate level course: CET 590 Traffic Systems Operation, University of Washington, Seattle, Autumn 2022
-* Undergraduate level course: CEE 327 Transportation Engineering, University of Washington, Seattle, Winter 2024
+* CVEEN 5920: Machine Learning for Civil Computing, Department of Civil and Environmental Engineering, University of Utah, Spring 2025
 
 ### Guest Lecture
 
@@ -31,6 +26,12 @@ author_profile: true
   * Topic: Advanced Traffic Sensing Technologies and Applications in Intelligent Transportation Systems
 * University of Washington K-12 Program, High-school Students Summer Camp, Summer, 2021
   * Topic: Intelligent Transportation Systems: Technologies and Applications
+* Tier 1 University Transportation Center (UTC), C2Smart Learning Hub, New York University (NYU), Winter 2022
+  * Computer Vision in Transportation: Basic Knowledge and Applications
 
+### Teaching Assistant
+
+* Graduate level course: CET 590 Traffic Systems Operation, University of Washington, Seattle, Autumn 2022
+* Undergraduate level course: CEE 327 Transportation Engineering, University of Washington, Seattle, Winter 2024
 
 
