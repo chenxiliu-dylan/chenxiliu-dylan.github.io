@@ -29,7 +29,7 @@ redirect_from:
 
 I am Chenxi Liu (刘晨曦), and you may also call me Dylan. I am an Assistant Professor in the Department of Civil and Environmental Engineering at the [University of Utah](https://www.civil.utah.edu/). I earned my Bachelor's degree in Civil Engineering from [Tsinghua University](https://www.civil.tsinghua.edu.cn/ceen/) in 2017, and completed my MS and Ph.D. degree in Civil and Environmental Engineering at the [University of Washington](https://www.ce.washington.edu/) in 2020 and 2024, respecitively.
 
-My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity, and resiliency. More specifically, I prefer to develop **advanced traffic sensing technologies** (traffic environment sensing, 3D object sensing, crowds sensing, cooperative sensing) with **distributed machine intelligence** (edge computing) to build a **connected and smart transportation system** for various applications (SPaT challenge, intersection safety, dilemma zone mitigation).
+My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity, and resiliency. More specifically, I prefer to develop **advanced machine intelligence** with **Generative Artificial Intelligence** and **Distributed Learning Structure** to build a **connected and autonomous transportation system** for various applications.
 
 ---
 
@@ -49,7 +49,6 @@ I am pleased to offer fully funded Ph.D. positions starting from Autumn 2026 in 
 * Distributed computing
 * Predictive control methods
 * Generative Artificial Intelligence
-* 
 
 If you are passionate about these research areas and enjoy living in [Salt Lake City](https://en.wikipedia.org/wiki/Salt_Lake_City), which offers [world-class skiing](https://www.visitutah.com/plan-your-trip/plan-your-ski-trip/utahs-easy-access) and [numerous amazing national parks](https://www.nps.gov/state/ut/index.htm), I would be delighted to consider you for our team at [University of Utah](https://en.wikipedia.org/wiki/University_of_Utah). Dedicated research experience or background is NOT required. We are looking for candidates who are driven by passions for the field and a commitment to long-term goals. Together, we can develop our research expertise.
 

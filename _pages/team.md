@@ -295,7 +295,7 @@ author_profile: true
     
     <!-- Short Bio -->
     <p>
-      Hi, I'm Weijia Li, an intern researcher eager to get some hands-on experience with how artificial intelligence can be applied to solve infrastructure and transportation problems in our world. I hope to gain experience that can guide my future pursuits and challenge myself in a professional setting. My focus is on the computer science element of AI application, though the practical side of integrating it with physical systems also intrigues me. Outside of academics, I enjoy tabletop games, cooking, watersports, and clockwork mechanisms. I'm always interested in new opportunities, so feel free to reach out!
+      Hi, I'm Isabel Nielson, a rising senior from Richfield, Utah. This summer I am working as a research intern through the University of Utah's internship program, and I am using this opportunity to become more involved with the engineering field as I prepare to go to college. I have a passion for learning, and I'm always looking for new ventures to explore. My other interests include baking, skiing, playing soccer, and theatre. 
     </p>
     
   </div>
@@ -331,11 +331,11 @@ author_profile: true
 
   <!-- Right: Bio & Keywords -->
   <div style="flex: 3; min-width: 300px;">
-    <h2 style="margin-top: 0;">Isabel Nielson, Summer Intern Student</h2>
+    <h2 style="margin-top: 0;">Weijia Li, Summer Intern Student</h2>
     
     <!-- Short Bio -->
     <p>
-      Hi, I'm Isabel Nielson, a rising senior from Richfield, Utah. This summer I am working as a research intern through the University of Utah's internship program, and I am using this opportunity to become more involved with the engineering field as I prepare to go to college. I have a passion for learning, and I'm always looking for new ventures to explore. My other interests include baking, skiing, playing soccer, and theatre. 
+      Hi, I'm Weijia Li, an intern researcher eager to get some hands-on experience with how artificial intelligence can be applied to solve infrastructure and transportation problems in our world. I hope to gain experience that can guide my future pursuits and challenge myself in a professional setting. My focus is on the computer science element of AI application, though the practical side of integrating it with physical systems also intrigues me. Outside of academics, I enjoy tabletop games, cooking, watersports, and clockwork mechanisms. I'm always interested in new opportunities, so feel free to reach out!
     </p>
     
   </div>
