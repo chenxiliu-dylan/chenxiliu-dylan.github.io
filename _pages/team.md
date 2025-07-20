@@ -262,7 +262,84 @@ author_profile: true
   </div>
 </div>
 
-ddd
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 2rem 0;">
+
+
+
+<div style="
+  display: flex;
+  flex-wrap: wrap; 
+  margin-bottom: 2rem;        /* Spacing after each student section */
+  gap: 20px;                  /* Space between the image and text */
+  align-items: flex-start;    /* Align items at the top */
+">
+
+  <!-- Left: Student Photo -->
+  <div style="flex: 1; min-width: 200px;">
+    <img 
+      src="https://chenxiliu-dylan.github.io/images/Isabel.jpg" 
+      alt="Student Photo"
+      style="
+        width: 100%;
+        height: auto;
+        border-radius: 8px;    /* Optional: rounded corners */
+        object-fit: cover;     /* Maintain aspect ratio */
+      "
+    >
+  </div>
+
+  <!-- Right: Bio & Keywords -->
+  <div style="flex: 3; min-width: 300px;">
+    <h2 style="margin-top: 0;">Isabel Nielson, Summer Intern Student</h2>
+    
+    <!-- Short Bio -->
+    <p>
+      Hi, I'm Weijia Li, an intern researcher eager to get some hands-on experience with how artificial intelligence can be applied to solve infrastructure and transportation problems in our world. I hope to gain experience that can guide my future pursuits and challenge myself in a professional setting. My focus is on the computer science element of AI application, though the practical side of integrating it with physical systems also intrigues me. Outside of academics, I enjoy tabletop games, cooking, watersports, and clockwork mechanisms. I'm always interested in new opportunities, so feel free to reach out!
+    </p>
+    
+  </div>
+</div>
+
+
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 2rem 0;">
+
+
+
+<div style="
+  display: flex;
+  flex-wrap: wrap; 
+  margin-bottom: 2rem;        /* Spacing after each student section */
+  gap: 20px;                  /* Space between the image and text */
+  align-items: flex-start;    /* Align items at the top */
+">
+
+  <!-- Left: Student Photo -->
+  <div style="flex: 1; min-width: 200px;">
+    <img 
+      src="https://chenxiliu-dylan.github.io/images/Weijia.jpg" 
+      alt="Student Photo"
+      style="
+        width: 100%;
+        height: auto;
+        border-radius: 8px;    /* Optional: rounded corners */
+        object-fit: cover;     /* Maintain aspect ratio */
+      "
+    >
+  </div>
+
+  <!-- Right: Bio & Keywords -->
+  <div style="flex: 3; min-width: 300px;">
+    <h2 style="margin-top: 0;">Isabel Nielson, Summer Intern Student</h2>
+    
+    <!-- Short Bio -->
+    <p>
+      Hi, I'm Isabel Nielson, a rising senior from Richfield, Utah. This summer I am working as a research intern through the University of Utah's internship program, and I am using this opportunity to become more involved with the engineering field as I prepare to go to college. I have a passion for learning, and I'm always looking for new ventures to explore. My other interests include baking, skiing, playing soccer, and theatre. 
+    </p>
+    
+  </div>
+</div>
 
 
 
