@@ -216,3 +216,54 @@ author_profile: true
     </p>
   </div>
 </div>
+
+
+
+
+# **Summer Intern Students**
+<table>
+    <tr>
+        <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: 0.05px solid white; border-left: 0.05px solid white; border-right: 0.05px solid white; padding: 10px; height: 1px;">
+        </td>
+    </tr>
+</table>
+
+<div style="
+  display: flex;
+  flex-wrap: wrap; 
+  margin-bottom: 2rem;        /* Spacing after each student section */
+  gap: 20px;                  /* Space between the image and text */
+  align-items: flex-start;    /* Align items at the top */
+">
+
+  <!-- Left: Student Photo -->
+  <div style="flex: 1; min-width: 200px;">
+    <img 
+      src="https://chenxiliu-dylan.github.io/images/fengze_yang.jpg" 
+      alt="Student Photo"
+      style="
+        width: 100%;
+        height: auto;
+        border-radius: 8px;    /* Optional: rounded corners */
+        object-fit: cover;     /* Maintain aspect ratio */
+      "
+    >
+  </div>
+
+  <!-- Right: Bio & Keywords -->
+  <div style="flex: 3; min-width: 300px;">
+    <h2 style="margin-top: 0;">Lucas Shen, Summer Intern Student</h2>
+    
+    <!-- Short Bio -->
+    <p>
+      I'm a high school junior at the Waterford School in Sandy, with a strong interest in engineering and computer science. Whether I’m programming for my school’s robotics team or exploring new ideas on my own, I love using technology to solve complex problems. I also stay active with crew rowing and compete in Science Olympiad. Additionally, I play saxophone in my school’s jazz band. In my free time, I enjoy traveling, hiking, playing chess, and playing strategy games like Starcraft and Civilization.
+    </p>
+    
+  </div>
+</div>
+
+
+
+
+
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 2rem 0;">
