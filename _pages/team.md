@@ -239,7 +239,7 @@ author_profile: true
   <!-- Left: Student Photo -->
   <div style="flex: 1; min-width: 200px;">
     <img 
-      src="https://chenxiliu-dylan.github.io/images/fengze_yang.jpg" 
+      src="https://chenxiliu-dylan.github.io/images/LucasShen.jpeg" 
       alt="Student Photo"
       style="
         width: 100%;
