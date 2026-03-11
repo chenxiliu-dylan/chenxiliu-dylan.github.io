@@ -29,7 +29,9 @@ redirect_from:
 
 I am Chenxi Liu (刘晨曦), and you may also call me Dylan. I am an Assistant Professor in the Department of Civil and Environmental Engineering at the [University of Utah](https://www.civil.utah.edu/). I earned my Bachelor's degree in Civil Engineering from [Tsinghua University](https://www.civil.tsinghua.edu.cn/ceen/) in 2017, and completed my MS and Ph.D. degree in Civil and Environmental Engineering at the [University of Washington](https://www.ce.washington.edu/) in 2020 and 2024, respecitively.
 
-My research focused on the situation-aware customized machine intelligence to establish a connected and autonomous transportation system for safety, equity, and resiliency. More specifically, I prefer to develop **advanced machine intelligence** with **Generative Artificial Intelligence** and **Distributed Learning Structure** to build a **connected and autonomous transportation system** for various applications.
+<!--My research focused on the situation-aware Agentic Artificial Intelligence to establish a connected and autonomous transportation system for safety and resiliency. More specifically, I prefer to develop **advanced machine intelligence** with **Generative Artificial Intelligence** and **Distributed Learning Structure** to build a **connected and autonomous transportation system** for various applications. -->
+
+My research centers on **situation-awared agentic AI** for building connected and autonomous transportation systems with improved safety and resilience. I develop advanced machine intelligence by integrating **generative AI** with **distributed learning** architectures to enable scalable, reliable deployment across diverse transportation applications.
 
 ---
 
@@ -42,7 +44,7 @@ My research focused on the situation-aware customized machine intelligence to es
     </tr>
 </table>
 
-I am pleased to offer fully funded Ph.D. positions starting from Autumn 2026 in the [Department of Civil and Environmental Engineering at University of Utah](https://www.civil.utah.edu). Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
+I am pleased to offer fully funded Ph.D. positions starting from Spring/Autumn 2027 in the [Department of Civil and Environmental Engineering at University of Utah](https://www.civil.utah.edu). Candidates will engage in cutting-edge research focused on **customizing machine intelligence within the field of intelligent transportation**. Key areas of research will include, but are not limited to:
 
 * Integrated sensing technologies
 * Cyber-physical cooperation
