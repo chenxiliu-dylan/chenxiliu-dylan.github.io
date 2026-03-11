@@ -70,6 +70,21 @@ Undergraduate/graduate visitors are also welcome.
     </tr>
 </table>
 
+
+* <span style="color:darkred"> New! </span> Feb. 2026. Our team research project "Reasoning-Enabled Autonomy System for Open Negotiation" is selected as the receipt of University of Utah Research Foundation (UURF) interdisplinary research initiative. 
+
+* <span style="color:darkred"> New! </span> Jan. 2026. Our new research paper "[Enhancing Urban Paratransit Reliability: Spatial–Temporal and Causal Analysis of Service Inefficiencies](https://doi.org/10.1061/JUPDDM.UPENG-6200)" is accepted and published on ASCE Journal of Urban Planning and Development.   
+
+* <span style="color:darkred"> New! </span> Jan. 2026. Dr. Chenxi Liu was appointed as an Associate Editor for the ASCE Journal of Computing in Civil Engineering.  
+
+* <span style="color:darkred"> New! </span> Jan. 2026. Our team research project "Distilling GPT-4o for the Edge: Real-Time Transportation Decision Making via Multi-Modal Knowledge Extraction" is selected as the receipt of OpenAI Researcher Access Award. 
+
+* <span style="color:darkred"> New! </span> Dec. 2025. The University of Utah transportation team has been awarded [$5M+ from the USDOT Safe Street for All (SS4A) program](https://www.price.utah.edu/2025/12/30/price-researchers-awarded-5-million-in-new-usdot-grants-for-transportation-systems-that-think-ahead) to develop intelligent transportation systems that leverage AI and V2X infrastructure to provide real-time hazard alerts and prevent crashes before they occur.
+
+* <span style="color:darkred"> New! </span> Oct. 2025. Our new research paper "[Traffic co-simulation framework empowered by infrastructure camera sensing and reinforcement learning](https://doi.org/10.1080/15472450.2025.2559410)" is accepted and published on Journal of Intelligent Transportation Systems.   
+
+* <span style="color:darkred"> New! </span> Sep. 2025. Our team is thrilled to present seven research papers at the TRB 2026 Annual Meeting in Washington, D.C., covering topics from AI-driven traffic safety to V2X collaboration. You can learn more details from the [Linkedin Post](https://www.linkedin.com/posts/chenxi-liu-1a9019173_thrilled-to-announce-that-our-team-will-present-activity-7414762799450476544-o6IF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo). We invite you to join our sessions and engage with our latest findings in urban mobility and autonomous systems.
+
 * <span style="color:darkred"> New! </span> Aug. 2025. The University of Utah Transportation Team, in collaboration with the Utah Department of Transportation, has been selected as one of the three finalists in the National Operations Center of Excellence (NOCoE) [Transportation Technology Tournament (TTT)](https://transportationops.org/transportation-technology-tournament/2025) . We will present our project at the ITE Annual Meeting on August 11, 2025.
 * <span style="color:darkred"> New! </span> July. 2025. The University of Utah Transportation Electrification Certificate Program cooperating with Utah State University has received additional funding in the following two years from Utah System of Higher Education (USHE) Deep Tech Initiative. 
 * <span style="color:darkred"> New! </span> Jun. 2025. Our new paper, "[LangCoop: Collaborative Driving with Language](https://openaccess.thecvf.com/content/CVPR2025W/MEIS/html/Gao_LangCoop_Collaborative_Driving_with_Language_CVPRW_2025_paper.html)," co-authored with the cooperators at Texas A&M University, received the <span style="color:darkred"> Best Paper Award </span> at the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025, Workshop on Multi-agent Embodied Intelligent Systems.
