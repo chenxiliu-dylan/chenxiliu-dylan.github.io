@@ -43,7 +43,7 @@ author_profile: true
 
 # **Team Awards & Achievement**
 
-1. Aug. 2025. **Receipt: Fengze Yang, Bo Yu, and Xuewen Luo**. The University of Utah Transportation Team, in collaboration with the Utah Department of Transportation, has been selected as one of the three finalists in the National Operations Center of Excellence (NOCoE) Transportation Technology Tournament (TTT) . We will present our project at the ITE Annual Meeting on August 11, 2025.
+1. Aug. 2025. **Receipt: Fengze Yang, Bo Yu, and Xuewen Luo**. The University of Utah Transportation Team, in collaboration with the Utah Department of Transportation, has been selected as one of the three finalists in the National Operations Center of Excellence (NOCoE) [Transportation Technology Tournament (TTT)](https://transportationops.org/transportation-technology-tournament/2026) . We presented our project at the ITE Annual Meeting on August 11, 2025. Learn more from our [LinkedIn Post](https://www.linkedin.com/posts/chenxi-liu-1a9019173_proud-achievement-for-the-utah-ttt-team-ugcPost-7362342929849331712-CUeX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo). 
 
 <table>
     <tr>
