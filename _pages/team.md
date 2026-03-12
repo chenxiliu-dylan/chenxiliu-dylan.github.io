@@ -35,40 +35,33 @@ author_profile: true
     </tr>
 </table>
 
-<div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; gap: 20px; align-items: flex-start;">
-
-  <div style="flex: 1; min-width: 150px; max-width: 180px;">
-    <img src="https://chenxiliu-dylan.github.io/images/fengze_yang.jpg" alt="Fengze Yang" style="width: 100%; border-radius: 6px; border: 1px solid #f0f0f0;">
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 2rem; gap: 25px; align-items: center;"> <div style="flex: 0 0 140px;"> <img src="https://chenxiliu-dylan.github.io/images/fengze_yang.jpg" alt="Fengze Yang" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; border: 3px solid #f9f9f9; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   </div>
 
-  <div style="flex: 3; min-width: 300px;">
-    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student/ Research Assistant</span></h2>
+  <div style="flex: 1; min-width: 300px;">
+    <h2 style="margin-top: 0; margin-bottom: 5px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
     
-    <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
+    <p style="margin: 0 0 8px 0; font-size: 0.95rem; color: #555; font-style: italic;">
+      B.S., [Previous University Name], [Year]
+    </p>
+
+    <p style="margin-bottom: 8px; line-height: 1.4; font-size: 0.95rem;">
       Focusing on the intersection of traffic engineering and AI, with an emphasis on Large Language Models (LLMs) and mobility safety.
     </p>
     
     <div style="font-size: 0.9rem; line-height: 1.4;">
       <strong>Research Interests:</strong> LLMs, V2X, Edge Computing, Traffic Safety.<br>
-      
-      <strong>Selected Honors:</strong>
-      <ul style="margin-top: 2px; margin-bottom: 6px; padding-left: 18px; color: #444;">
-        <li>[Award Name], 2024</li>
-        <li>[Award Name], 2023</li>
-      </ul>
-    </div>
+      <strong>Selected Honors:</strong> [Award Name], 2024 | [Award Name], 2023 </div>
     
-    <p style="font-size: 0.85rem; margin-top: 0;">
-      <a href="mailto:fred.yang@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/fengze-yang-a35825215/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=5i0PcJgAAAAJ">Scholar</a>
+    <p style="font-size: 0.85rem; margin-top: 8px;">
+      <a href="mailto:fred.yang@utah.edu">Email</a> | 
+      <a href="https://www.linkedin.com/in/fengze-yang-a35825215/">LinkedIn</a> | 
+      <a href="https://scholar.google.com/citations?user=5i0PcJgAAAAJ">Scholar</a>
     </p>
   </div>
 </div>
 
-
-
-
-
-<hr style="border: 0; border-top: 1px solid #ccc; margin: 2rem 0;">
+<hr style="border: 0; border-top: 1px solid #eee; margin: 1.5rem 0;">
 
 
 
