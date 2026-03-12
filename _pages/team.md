@@ -12,7 +12,7 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 2rem; gap: 25px; align-items: flex-start;">
 
-  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+  <div style="flex: 1; min-width: 150px; max-width: 180px;">
     <img src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" alt="Director Photo" style="width: 100%; border-radius: 8px; border: 1px solid #eee;">
   </div>
 
@@ -36,10 +36,6 @@ author_profile: true
       </ul>
     </div>
 
-    <p style="font-size: 0.9rem; margin-top: 10px;">
-      <a href="mailto:chenxi.liu@utah.edu">Email</a> | 
-      <a href="https://chenxiliu-dylan.github.io/">Full CV & About Me</a>
-    </p>
   </div>
 </div>
 
