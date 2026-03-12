@@ -19,11 +19,6 @@ author_profile: true
   <div style="flex: 2; min-width: 300px;">
     <h2 style="margin-top: 0; margin-bottom: 5px; color: #333;">Chenxi Dylan Liu, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D.</span></h2>
     
-    <p style="font-size: 1rem; color: #555; margin-bottom: 15px; font-style: italic;">
-      Assistant Professor, Civil & Environmental Engineering<br>
-      University of Utah
-    </p>
-    
     <p style="margin-bottom: 15px; line-height: 1.5; font-size: 0.95rem;">
       My research develops situation-aware, customized machine intelligence at the intersection of AI and transportation. By integrating Generative AI (LLMs, LVMs, Diffusion) with connected/autonomous systems, I aim to create safer, more equitable, and more resilient mobility solutions.
     </p>
@@ -72,8 +67,8 @@ author_profile: true
       
       <strong>Selected Honors:</strong>
       <ul style="margin-top: 2px; margin-bottom: 6px; padding-left: 18px; color: #444;">
-        <li>[Award Name], 2024</li>
-        <li>[Award Name], 2023</li>
+        <li>[Finalist, USDOT Transportation Technology Tournament (TTT)], 2025</li>
+        <li>[ITE Mountain District Scholarship], 2025</li>
       </ul>
     </div>
     
@@ -140,7 +135,7 @@ author_profile: true
       
       <strong>Selected Honors:</strong>
       <ul style="margin-top: 2px; margin-bottom: 6px; padding-left: 18px; color: #444;">
-        <li>[Award Name], [Year]</li>
+        <li>[IEEE Intelligent Transportation Systems Society (ITSS) Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS], [2025]</li>
       </ul>
     </div>
     
