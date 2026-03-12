@@ -59,17 +59,12 @@ author_profile: true
     <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal">Ph.D. Student, 2024 - 2028 (expected)</span></h2>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
-      Hi, I’m Fengze Yang, a researcher specializing in traffic engineering and artificial intelligence. I strive to grow personally and professionally by embracing curiosity, resilience, effective communication, and collaboration. Challenges inspire me, setbacks teach me, and meaningful connections drive my work. Outside of research, I enjoy snowboarding, car racing, and painting—creative outlets that keep me balanced and energized. Whether you’re here to connect, exchange ideas, or learn more about my journey, I’m excited to engage with you. Let’s work together to make a meaningful impact!
+      <strong>Short Bio:</strong>Hi, I’m Fengze Yang, a researcher specializing in traffic engineering and artificial intelligence. I strive to grow personally and professionally by embracing curiosity, resilience, effective communication, and collaboration. Challenges inspire me, setbacks teach me, and meaningful connections drive my work. Outside of research, I enjoy snowboarding, car racing, and painting—creative outlets that keep me balanced and energized. Whether you’re here to connect, exchange ideas, or learn more about my journey, I’m excited to engage with you. Let’s work together to make a meaningful impact!
     </p>
     
     <div style="font-size: 0.9rem; line-height: 1.4;">
       <strong>Research Interests:</strong> LLMs, V2X, Edge Computing, Traffic Safety.<br>
       
-      <strong>Selected Honors:</strong>
-      <ul style="margin-top: 2px; margin-bottom: 6px; padding-left: 18px; color: #444;">
-        <li>[Finalist, USDOT Transportation Technology Tournament (TTT)], 2025</li>
-        <li>[ITE Mountain District Scholarship], 2025</li>
-      </ul>
     </div>
     
     <p style="font-size: 0.85rem; margin-top: 0;">
@@ -93,16 +88,12 @@ author_profile: true
     <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Bo Yu, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
-      Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
+      <strong>Short Bio:</strong>Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
     </p>
     
     <div style="font-size: 0.9rem; line-height: 1.4;">
       <strong>Research Interests:</strong> Intelligent Transportation Systems (ITS), Generative Models, Multi-modal Machine Learning, Reproducible Research.<br>
       
-      <strong>Selected Honors:</strong>
-      <ul style="margin-top: 2px; margin-bottom: 6px; padding-left: 18px; color: #444;">
-        <li>[Award Name], [Year]</li>
-      </ul>
     </div>
     
     <p style="font-size: 0.85rem; margin-top: 0;">
@@ -127,16 +118,12 @@ author_profile: true
     <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Xuewen (Snow) Luo, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
-      Hi, I’m Xuewen (Snow) Luo, an enthusiastic researcher blending transportation with a solid artificial intelligence background. My research centers on using advanced AI, such as multimodal large language models, to enhance perception and decision-making in autonomous driving and intelligent transportation systems. Beyond research, I love traveling, cooking, savoring diverse cuisines, and letting my imagination run wild—activities that spark creativity and fuel my passion for innovation. If you’re interested in my work, feel free to reach out. Let’s do some interesting and meaningful work together!
+      <strong>Short Bio:</strong>Hi, I’m Xuewen (Snow) Luo, an enthusiastic researcher blending transportation with a solid artificial intelligence background. My research centers on using advanced AI, such as multimodal large language models, to enhance perception and decision-making in autonomous driving and intelligent transportation systems. Beyond research, I love traveling, cooking, savoring diverse cuisines, and letting my imagination run wild—activities that spark creativity and fuel my passion for innovation. If you’re interested in my work, feel free to reach out. Let’s do some interesting and meaningful work together!
     </p>
     
     <div style="font-size: 0.9rem; line-height: 1.4;">
       <strong>Research Interests:</strong> Autonomous Driving, V2X, Intelligent Transportation Systems, Large Language Models (LLMs), Traffic Sensing.<br>
       
-      <strong>Selected Honors:</strong>
-      <ul style="margin-top: 2px; margin-bottom: 6px; padding-left: 18px; color: #444;">
-        <li>[IEEE Intelligent Transportation Systems Society (ITSS) Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS], [2025]</li>
-      </ul>
     </div>
     
     <p style="font-size: 0.85rem; margin-top: 0;">
