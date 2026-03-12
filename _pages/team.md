@@ -62,7 +62,7 @@ author_profile: true
       <strong>Short Bio: </strong> Hi, I’m Fengze Yang, a researcher specializing in traffic engineering and artificial intelligence. I strive to grow personally and professionally by embracing curiosity, resilience, effective communication, and collaboration. Challenges inspire me, setbacks teach me, and meaningful connections drive my work. Outside of research, I enjoy snowboarding, car racing, and painting—creative outlets that keep me balanced and energized. Whether you’re here to connect, exchange ideas, or learn more about my journey, I’m excited to engage with you. Let’s work together to make a meaningful impact!
     </p>
     
-    <div style="font-size: 0.9rem; line-height: 1.4;">
+    <div style="font-size: 1rem; line-height: 2;">
       <strong>Research Interests:</strong> LLMs, V2X, Edge Computing, Traffic Safety.<br>
       
     </div>
@@ -194,7 +194,7 @@ author_profile: true
 </ul>
 
 {% comment %}
-# **Summer Intern Students**
+# **Intern Students**
 <table>
     <tr>
         <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: 0.05px solid white; border-left: 0.05px solid white; border-right: 0.05px solid white; padding: 10px; height: 1px;">
