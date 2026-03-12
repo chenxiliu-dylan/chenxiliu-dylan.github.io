@@ -67,7 +67,7 @@ author_profile: true
       
     </div>
     
-    <p style="font-size: 0.85rem; margin-top: 0;">
+    <p style="font-size: 1rem; margin-top: 0;">
       <a href="mailto:fred.yang@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/fengze-yang-a35825215/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=5i0PcJgAAAAJ">Scholar</a>
     </p>
   </div>
@@ -91,12 +91,12 @@ author_profile: true
       <strong>Short Bio: </strong> Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
     </p>
     
-    <div style="font-size: 0.9rem; line-height: 1.4;">
+     <div style="font-size: 1rem; line-height: 2;">
       <strong>Research Interests:</strong> Intelligent Transportation Systems (ITS), Generative Models, Multi-modal Machine Learning, Reproducible Research.<br>
       
     </div>
     
-    <p style="font-size: 0.85rem; margin-top: 0;">
+    <p style="font-size: 1rem; margin-top: 0;">
       <a href="bo.yu@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/bo-yu-016984228/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=WdUCvWMAAAAJ&hl=en">Scholar</a>
     </p>
   </div>
@@ -121,12 +121,12 @@ author_profile: true
       <strong>Short Bio: </strong> Hi, I’m Xuewen (Snow) Luo, an enthusiastic researcher blending transportation with a solid artificial intelligence background. My research centers on using advanced AI, such as multimodal large language models, to enhance perception and decision-making in autonomous driving and intelligent transportation systems. Beyond research, I love traveling, cooking, savoring diverse cuisines, and letting my imagination run wild—activities that spark creativity and fuel my passion for innovation. If you’re interested in my work, feel free to reach out. Let’s do some interesting and meaningful work together!
     </p>
     
-    <div style="font-size: 0.9rem; line-height: 1.4;">
+     <div style="font-size: 1rem; line-height: 2;">
       <strong>Research Interests:</strong> Autonomous Driving, V2X, Intelligent Transportation Systems, Large Language Models (LLMs), Traffic Sensing.<br>
       
     </div>
     
-    <p style="font-size: 0.85rem; margin-top: 0;">
+    <p style="font-size: 1rem; margin-top: 0;">
       <a href="xuewen.luo@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/xuewen-luo-698a46285/">LinkedIn</a> | <a href="https://scholar.google.com/citations?hl=en&user=r-KCmWcAAAAJ">Scholar</a>
     </p>
   </div>
@@ -175,7 +175,7 @@ author_profile: true
     - <strong>Research Focus:</strong> Engineering preparation and explored early-stage research concepts.
   </p>
   <p style="margin: 5px 0 0 15px; font-size: 0.95rem; color: #444;">
-    - <strong>Next Step / Placement:</strong> -
+    - <strong>Next Step / Placement:</strong> NA
   </p>
 </div>
 
@@ -188,7 +188,7 @@ author_profile: true
     - <strong>Research Focus:</strong> Computer science elements of AI applications.
   </p>
   <p style="margin: 5px 0 0 15px; font-size: 0.95rem; color: #444;">
-    - <strong>Next Step / Placement:</strong> -
+    - <strong>Next Step / Placement:</strong> NA
   </p>
 </div>
 
