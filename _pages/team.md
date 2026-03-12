@@ -41,21 +41,6 @@ author_profile: true
 </div>
 
 
-# **Team Awards & Achievement**
-
-<table>
-    <tr>
-        <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: 0.05px solid white; border-left: 0.05px solid white; border-right: 0.05px solid white; padding: 10px; height: 1px;">
-        </td>
-    </tr>
-</table>
-
-1. Aug. 2025. The University of Utah Transportation Team including **Fengze Yang (team leader), Bo Yu, and Xuewen Luo**, in collaboration with the Utah Department of Transportation, has been selected as one of the three finalists in the National Operations Center of Excellence (NOCoE) [Transportation Technology Tournament (TTT)](https://transportationops.org/transportation-technology-tournament/2026) . We presented our project at the ITE Annual Meeting on August 11, 2025. Learn more from our [LinkedIn Post](https://www.linkedin.com/posts/chenxi-liu-1a9019173_proud-achievement-for-the-utah-ttt-team-ugcPost-7362342929849331712-CUeX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo). 
-2. May. 2025. **Fengze Yang** received ITE Utah Section Student Scholarship and presented his recent research in the [Mountain District ITE Conference](https://www.civil.utah.edu/2025/06/10/university-of-utah-recognized-at-2025-ite-mountain-district-annual-meeting/). Learn more from the [LinkedIn Post](https://www.linkedin.com/posts/fengze-yang-a35825215_iteabrutahabrsection-iteutahsection-ite-activity-7307903560912945152-LinF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo).
-3. Apr. 2025. **Xuewen Luo** has been selected for the [2025 IEEE Intelligent Transportation Systems Society (ITSS) Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS](https://ieee-itss.org/the-2025-fellowship-program-for-promoting-women-young-professionals-and-leadership-in-its/). As part of the program, she organized and hosted a workshop in June titled "Ask Her Way: A Reverse Q&A and Career Match for Aspiring Women in Transportation." Learn more from the [LinkedIn Post](https://www.linkedin.com/posts/xuewen-luo-698a46285_transportation-womeninstem-careermentorship-share-7337110684280725506-w8v-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo).
-
-
-
 # **Graduate Students**
 <table>
     <tr>
@@ -112,7 +97,7 @@ author_profile: true
     </div>
     
     <p style="font-size: 1rem; margin-top: 0;">
-      <a href="bo.yu@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/bo-yu-016984228/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=WdUCvWMAAAAJ&hl=en">Scholar</a>
+      <a href="mailto:bo.yu@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/bo-yu-016984228/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=WdUCvWMAAAAJ&hl=en">Scholar</a>
     </p>
   </div>
 </div>
@@ -142,7 +127,7 @@ author_profile: true
     </div>
     
     <p style="font-size: 1rem; margin-top: 0;">
-      <a href="xuewen.luo@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/xuewen-luo-698a46285/">LinkedIn</a> | <a href="https://scholar.google.com/citations?hl=en&user=r-KCmWcAAAAJ">Scholar</a>
+      <a href="mailto:xuewen.luo@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/xuewen-luo-698a46285/">LinkedIn</a> | <a href="https://scholar.google.com/citations?hl=en&user=r-KCmWcAAAAJ">Scholar</a>
     </p>
   </div>
 </div>

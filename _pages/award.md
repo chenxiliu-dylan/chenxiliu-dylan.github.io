@@ -5,7 +5,7 @@ permalink: /award/
 author_profile: true
 ---
 
-# Honors & Awards
+# Individual Honors & Awards
 
 <table>
     <tr>
@@ -15,8 +15,6 @@ author_profile: true
 </table>
 
 ---
-
-# 2022 - 2026
 
 1. **Researcher Access Award**, OpenAI, "Distilling GPT-4o for the Edge: Real-Time Transportation Decision Making via Multi-Modal Knowledge Extraction", Jan 2026. 
 2. **Best Paper Award**, IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025, Workshop on Multi-agent Embodied Intelligent Systems, "LangCoop: Collaborative Driving with Language", July 2025. 
@@ -36,19 +34,28 @@ author_profile: true
 16. Runner-up, American Society of Civil Engineers (ASCE) Student Presentation Competition, University of Washington, Jun. 2022.
 17. Winner, Second MetroLab Student Cup Organized by MetroLab Network, for project "Real-time Road Surface Conditions and Visibility Monitoring System for Traffic Safety", Jun. 2022.
 18. Runner-up, Transportation Forecasting Competition 2022 (TRANSFOR 22), Oustanding Committee TRB AED50 Artificial Intelligence and Advanced Computing Applications, Jan. 2022.
+19. Winner in Mobility Track, First MetroLab Student Cup Organized by MetroLab Network, for project "Curbside Parking Monitoring and Management Using Edge Computing Technology". Dec. 2020.
+20. Outstanding Award (6/1500), Third Di-Tech Smart Traffic Signal AI Algorithm Competition organized by Didi Chuxing Technology Co., Mar. 2018.
+21. Travel Award, College of Engineering, University of Washington, 2018, 2020, 2022.
+22. Travel Award, Pacific Northwest Transportation Consortium (PacTrans) Region 10 University Transportation Center, 2018, 2019, 2020, 2022, 2023.
+23. Runner-up, Structural Design Competition, Tsinghua University, Beijing, China, Oct. 2016.
+24. Runner-up, Transportation Science & Technology Competition, Tsinghua University, Beijing, China, May 2016.
+25. Outstanding Contribution Intern Award, Wuhan Planning \& Designing Institute, Wuhan, China, Aug. 2015.
+26. Outstanding Social Work Award, Summer Practice Program, Tsinghua University, Beijing, China, Oct. 2014.
+27. Outstanding Voluntary Teaching Award, Summer Practice Program, Tsinghua University, Beijing, China, Oct. 2014.
+28. University Scholarship, Excellent Practice Team Leader Scholarship, Tsinghua University, Beijing, China, Sep. 2014.
+29. Second Prize, China Undergraduate Mathematical Contest in Modeling, Tsinghua University, Beijing, China, Jul. 2014.
+30. First Prize (Top 100/300,000)}, National Chinese Physics Olympiad (CPhO), China, Oct. 2012.
 
-# Previous
+# **Team Awards & Achievements**
 
-1. Winner in Mobility Track, First MetroLab Student Cup Organized by MetroLab Network, for project "Curbside Parking Monitoring and Management Using Edge Computing Technology". Dec. 2020.
-2. Outstanding Award (6/1500), Third Di-Tech Smart Traffic Signal AI Algorithm Competition organized by Didi Chuxing Technology Co., Mar. 2018.
-3. Travel Award, College of Engineering, University of Washington, 2018, 2020, 2022.
-4. Travel Award, Pacific Northwest Transportation Consortium (PacTrans) Region 10 University Transportation Center, 2018, 2019, 2020, 2022, 2023.
-5. Runner-up, Structural Design Competition, Tsinghua University, Beijing, China, Oct. 2016.
-6. Runner-up, Transportation Science & Technology Competition, Tsinghua University, Beijing, China, May 2016.
-7. Outstanding Contribution Intern Award, Wuhan Planning \& Designing Institute, Wuhan, China, Aug. 2015.
-8. Outstanding Social Work Award, Summer Practice Program, Tsinghua University, Beijing, China, Oct. 2014.
-9. Outstanding Voluntary Teaching Award, Summer Practice Program, Tsinghua University, Beijing, China, Oct. 2014.
-10. University Scholarship, Excellent Practice Team Leader Scholarship, Tsinghua University, Beijing, China, Sep. 2014.
-11. Second Prize, China Undergraduate Mathematical Contest in Modeling, Tsinghua University, Beijing, China, Jul. 2014.
-12. First Prize (Top 100/300,000)}, National Chinese Physics Olympiad (CPhO), China, Oct. 2012.
+<table>
+    <tr>
+        <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: 0.05px solid white; border-left: 0.05px solid white; border-right: 0.05px solid white; padding: 10px; height: 1px;">
+        </td>
+    </tr>
+</table>
 
+1. Aug. 2025. The University of Utah Transportation Team including **Fengze Yang (team leader), Bo Yu, and Xuewen Luo**, in collaboration with the Utah Department of Transportation, has been selected as one of the three finalists in the National Operations Center of Excellence (NOCoE) [Transportation Technology Tournament (TTT)](https://transportationops.org/transportation-technology-tournament/2026) . We presented our project at the ITE Annual Meeting on August 11, 2025. Learn more from our [LinkedIn Post](https://www.linkedin.com/posts/chenxi-liu-1a9019173_proud-achievement-for-the-utah-ttt-team-ugcPost-7362342929849331712-CUeX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo). 
+2. May. 2025. **Fengze Yang** received ITE Utah Section Student Scholarship and presented his recent research in the [Mountain District ITE Conference](https://www.civil.utah.edu/2025/06/10/university-of-utah-recognized-at-2025-ite-mountain-district-annual-meeting/). Learn more from the [LinkedIn Post](https://www.linkedin.com/posts/fengze-yang-a35825215_iteabrutahabrsection-iteutahsection-ite-activity-7307903560912945152-LinF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo).
+3. Apr. 2025. **Xuewen Luo** has been selected for the [2025 IEEE Intelligent Transportation Systems Society (ITSS) Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS](https://ieee-itss.org/the-2025-fellowship-program-for-promoting-women-young-professionals-and-leadership-in-its/). As part of the program, she organized and hosted a workshop in June titled "Ask Her Way: A Reverse Q&A and Career Match for Aspiring Women in Transportation." Learn more from the [LinkedIn Post](https://www.linkedin.com/posts/xuewen-luo-698a46285_transportation-womeninstem-careermentorship-share-7337110684280725506-w8v-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo).

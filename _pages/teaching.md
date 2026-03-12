@@ -16,7 +16,9 @@ author_profile: true
 
 ### Instructor
 
-* CVEEN 5920: Machine Learning for Civil Computing, Department of Civil and Environmental Engineering, University of Utah, Spring 2025
+* CVEEN 5920: Machine Learning for Civil Computing, Department of Civil and Environmental Engineering, University of Utah, Spring Semester, 2025-Present
+* CVEEN 3520: Transportation Engineering, Department of Civil and Environmental Engineering, University of Utah, Fall Semester, 2026-Present
+* CVEEN 6592: AI-enabled Electrification Transportation, Department of Civil and Environmental Engineering, University of Utah, Fall Semester, 2026-Present
 
 ### Guest Lecture
 
