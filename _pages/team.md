@@ -106,7 +106,7 @@ author_profile: true
     </div>
     
     <p style="font-size: 0.85rem; margin-top: 0;">
-      <a href="#">Email</a> | <a href="https://www.linkedin.com/in/bo-yu-016984228/">LinkedIn</a> | <a href="#">Scholar</a>
+      <a href="bo.yu@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/bo-yu-016984228/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=WdUCvWMAAAAJ&hl=en">Scholar</a>
     </p>
   </div>
 </div>
@@ -140,7 +140,7 @@ author_profile: true
     </div>
     
     <p style="font-size: 0.85rem; margin-top: 0;">
-      <a href="#">Email</a> | <a href="#">LinkedIn</a> | <a href="https://scholar.google.com/citations?hl=en&user=r-KCmWcAAAAJ">Scholar</a>
+      <a href="xuewen.luo@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/xuewen-luo-698a46285/">LinkedIn</a> | <a href="https://scholar.google.com/citations?hl=en&user=r-KCmWcAAAAJ">Scholar</a>
     </p>
   </div>
 </div>
