@@ -21,20 +21,21 @@ author_profile: true
 1. **Researcher Access Award**, OpenAI, "Distilling GPT-4o for the Edge: Real-Time Transportation Decision Making via Multi-Modal Knowledge Extraction", Jan 2026. 
 2. **Best Paper Award**, IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2025, Workshop on Multi-agent Embodied Intelligent Systems, "LangCoop: Collaborative Driving with Language", July 2025. 
 3. **Best Dissertation Award**, Chinese Oversea Transportation Association (COTA) FY 24, "Situation-Aware and Customized Machine Intelligence for Transportation Safety, Equity, and Resilience". Jan, 2025.  
-4. **MichaelKyte Outstanding Student of the Year Award**, US Department of Transportation University Transportation Center (UTC) for Federal Region 10, Oct 2023.
-5. **Small Business Innovation Research (SBIR) Award**, U.S. Department of Transportation FY 23, "Edge Computing and Sensor Fusion System for Comprehensive Monitoring of Traffic and Road Conditions", Oct. 2023.
-6. **Innovative Project Award**, FHWA LTAP/TTAP, Build a Better Mousetrap Innovation 2023. Jul 2023
-7. Runner-up, American Society of Civil Engineers (ASCE) Presentation Competition, University of Washington, May 2023.
-8. **Best Paper Award**, TRB Standing Committee on Information Systems and Technology (AED30), for the paper titled "Cooperative and Comprehensive Multi-task Surveillance Sensing and Interaction System Empowered by Edge Artificial Intelligence", Jan. 2023.
-9. Outstanding Poster Award, National Science Foundation (NSF) AI in Transportation Workshop, Dec. 2022.
-10. **Outstanding Paper Award**, IEEE Digital Twins and Parallel Intelligence conference (IEEE DTPI 2022), for the paper titled "Real-Time Traffic and Road Surveillance with Parallel Edge Intelligence (JRFID-0141-07-2022)." Nov. 2022.
-11. Winner, Pacific Northwest Transportation Consortium (PacTrans) Region 10 Poster Competition, for research "Real-time Multi-task Environmental Perception System for Traffic Safety Empowered by Edge Artificial Intelligence", Oct. 2022.
-12. **Excellence in Technology Transfer Award**, US Department of Transportation University Transportation Center (UTC) for Federal Region 10, Pacific Northwest Transportation Consortium (PacTrans), AIWaysion Inc., Oct. 2022
-13. **Small Business Innovation Research (SBIR) Award**, U.S. DOT FY 22, "Edge Server-Based AI Application for Dilemma Zone and Traffic Conflict", AIWaysion Inc., Oct. 2022.
-14. **High-Value Research Award**, American Association of State Highway and Transportation Officials (AASHTO) for project “Real-Time Truck Parking Information Integration, Visualization and Prediction”, Aug 2022.
-15. Runner-up, American Society of Civil Engineers (ASCE) Student Presentation Competition, University of Washington, Jun. 2022.
-16. Winner, Second MetroLab Student Cup Organized by MetroLab Network, for project "Real-time Road Surface Conditions and Visibility Monitoring System for Traffic Safety", Jun. 2022.
-17. Runner-up, Transportation Forecasting Competition 2022 (TRANSFOR 22), Oustanding Committee TRB AED50 Artificial Intelligence and Advanced Computing Applications, Jan. 2022.
+4. **Best Innovation Paper Award**, The 5th International Conference on Highway Engineering (iCHE), "Detecting Lateral Offset Distance on Rural Road in Thailand by Using Point Cloud Data : A Case Study". Sep. 2024.
+5. **MichaelKyte Outstanding Student of the Year Award**, US Department of Transportation University Transportation Center (UTC) for Federal Region 10, Oct 2023.
+6. **Small Business Innovation Research (SBIR) Award**, U.S. Department of Transportation FY 23, "Edge Computing and Sensor Fusion System for Comprehensive Monitoring of Traffic and Road Conditions", Oct. 2023.
+7. **Innovative Project Award**, FHWA LTAP/TTAP, Build a Better Mousetrap Innovation 2023. Jul 2023
+8. Runner-up, American Society of Civil Engineers (ASCE) Presentation Competition, University of Washington, May 2023.
+9. **Best Paper Award**, TRB Standing Committee on Information Systems and Technology (AED30), for the paper titled "Cooperative and Comprehensive Multi-task Surveillance Sensing and Interaction System Empowered by Edge Artificial Intelligence", Jan. 2023.
+10. Outstanding Poster Award, National Science Foundation (NSF) AI in Transportation Workshop, Dec. 2022.
+11. **Outstanding Paper Award**, IEEE Digital Twins and Parallel Intelligence conference (IEEE DTPI 2022), for the paper titled "Real-Time Traffic and Road Surveillance with Parallel Edge Intelligence (JRFID-0141-07-2022)." Nov. 2022.
+12. Winner, Pacific Northwest Transportation Consortium (PacTrans) Region 10 Poster Competition, for research "Real-time Multi-task Environmental Perception System for Traffic Safety Empowered by Edge Artificial Intelligence", Oct. 2022.
+13. **Excellence in Technology Transfer Award**, US Department of Transportation University Transportation Center (UTC) for Federal Region 10, Pacific Northwest Transportation Consortium (PacTrans), AIWaysion Inc., Oct. 2022
+14. **Small Business Innovation Research (SBIR) Award**, U.S. DOT FY 22, "Edge Server-Based AI Application for Dilemma Zone and Traffic Conflict", AIWaysion Inc., Oct. 2022.
+15. **High-Value Research Award**, American Association of State Highway and Transportation Officials (AASHTO) for project “Real-Time Truck Parking Information Integration, Visualization and Prediction”, Aug 2022.
+16. Runner-up, American Society of Civil Engineers (ASCE) Student Presentation Competition, University of Washington, Jun. 2022.
+17. Winner, Second MetroLab Student Cup Organized by MetroLab Network, for project "Real-time Road Surface Conditions and Visibility Monitoring System for Traffic Safety", Jun. 2022.
+18. Runner-up, Transportation Forecasting Competition 2022 (TRANSFOR 22), Oustanding Committee TRB AED50 Artificial Intelligence and Advanced Computing Applications, Jan. 2022.
 
 # Previous
 
