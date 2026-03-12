@@ -80,26 +80,32 @@ author_profile: true
   </div>
 
   <!-- Right: Bio & Keywords -->
+  <div style="display: flex; flex-wrap: wrap; margin-bottom: 3rem; gap: 25px; align-items: flex-start;">
+
+  <div style="flex: 1; min-width: 180px; max-width: 220px;">
+    <img src="https://chenxiliu-dylan.github.io/images/fengze_yang.jpg" alt="Fengze Yang" style="width: 100%; border-radius: 8px; border: 1px solid #eee;">
+  </div>
+
   <div style="flex: 3; min-width: 300px;">
-    <h2 style="margin-top: 0;">Fengze Yang, Research Assistant</h2>
+    <h2 style="margin-top: 0; color: #CC0000;">Fengze Yang</h2>
+    <p style="font-style: italic; margin-top: -10px;">Ph.D. Student / Research Assistant</p>
     
-    <!-- Short Bio -->
-    <p>
-      Hi, I’m Fengze Yang, a researcher specializing in traffic engineering and artificial intelligence. I strive to grow personally and professionally by embracing curiosity, resilience, effective communication, and collaboration. Challenges inspire me, setbacks teach me, and meaningful connections drive my work. Outside of research, I enjoy snowboarding, car racing, and painting—creative outlets that keep me balanced and energized. Whether you’re here to connect, exchange ideas, or learn more about my journey, I’m excited to engage with you. Let’s work together to make a meaningful impact!
-    </p>
+    <p>Fengze specializes in the intersection of traffic engineering and AI, focusing on bridging the gap between LLMs and real-world mobility safety. </p>
     
-    <!-- Keywords for Research Interests -->
-    <p>
-      <strong>Research Interests:</strong>
-      Large Language Models (LLMs), V2X Communication, Edge Computing, Traffic Safety, Smart Transportation Systems.
-    </p>
+    <div style="font-size: 0.95rem;">
+      <strong>Research Interests:</strong> LLMs, V2X, Edge Computing, Traffic Safety. <br>
+      
+      <strong>Selected Honors:</strong>
+      <ul style="margin-top: 5px; margin-bottom: 10px; padding-left: 20px;">
+        <li>[A], 2024</li>
+        <li>[B], 2023</li>
+      </ul>
+    </div>
     
-    <!-- Optionally: Contact / Social Links -->
-    <p>
-      <strong>Contact / Links:</strong><br>
+    <p style="font-size: 0.9rem;">
       <a href="mailto:fred.yang@utah.edu">Email</a> | 
       <a href="https://www.linkedin.com/in/fengze-yang-a35825215/">LinkedIn</a> | 
-      <a href="https://scholar.google.com/citations?user=5i0PcJgAAAAJ&hl=en&oi=ao">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=5i0PcJgAAAAJ">Google Scholar</a>
     </p>
   </div>
 </div>
