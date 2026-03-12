@@ -65,21 +65,6 @@ author_profile: true
   align-items: flex-start;    /* Align items at the top */
 ">
 
-  <!-- Left: Student Photo -->
-  <div style="flex: 1; min-width: 200px;">
-    <img 
-      src="https://chenxiliu-dylan.github.io/images/fengze_yang.jpg" 
-      alt="Student Photo"
-      style="
-        width: 100%;
-        height: auto;
-        border-radius: 8px;    /* Optional: rounded corners */
-        object-fit: cover;     /* Maintain aspect ratio */
-      "
-    >
-  </div>
-
-  <!-- Right: Bio & Keywords -->
   <div style="display: flex; flex-wrap: wrap; margin-bottom: 3rem; gap: 25px; align-items: flex-start;">
 
   <div style="flex: 1; min-width: 180px; max-width: 220px;">
