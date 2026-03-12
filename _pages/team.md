@@ -59,7 +59,7 @@ author_profile: true
     <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal">Ph.D. Student, 2024 - 2028 (expected)</span></h2>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
-      <strong>Short Bio:</strong>Hi, I’m Fengze Yang, a researcher specializing in traffic engineering and artificial intelligence. I strive to grow personally and professionally by embracing curiosity, resilience, effective communication, and collaboration. Challenges inspire me, setbacks teach me, and meaningful connections drive my work. Outside of research, I enjoy snowboarding, car racing, and painting—creative outlets that keep me balanced and energized. Whether you’re here to connect, exchange ideas, or learn more about my journey, I’m excited to engage with you. Let’s work together to make a meaningful impact!
+      <strong>Short Bio:</strong> Hi, I’m Fengze Yang, a researcher specializing in traffic engineering and artificial intelligence. I strive to grow personally and professionally by embracing curiosity, resilience, effective communication, and collaboration. Challenges inspire me, setbacks teach me, and meaningful connections drive my work. Outside of research, I enjoy snowboarding, car racing, and painting—creative outlets that keep me balanced and energized. Whether you’re here to connect, exchange ideas, or learn more about my journey, I’m excited to engage with you. Let’s work together to make a meaningful impact!
     </p>
     
     <div style="font-size: 0.9rem; line-height: 1.4;">
@@ -88,7 +88,7 @@ author_profile: true
     <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Bo Yu, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student, 2025 - 2029 (expected)</span></h2>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
-      <strong>Short Bio:</strong>Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
+      <strong>Short Bio:</strong> Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
     </p>
     
     <div style="font-size: 0.9rem; line-height: 1.4;">
@@ -118,7 +118,7 @@ author_profile: true
     <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Xuewen (Snow) Luo, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student, 2025 - 2029 (expected)</span></h2>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
-      <strong>Short Bio:</strong>Hi, I’m Xuewen (Snow) Luo, an enthusiastic researcher blending transportation with a solid artificial intelligence background. My research centers on using advanced AI, such as multimodal large language models, to enhance perception and decision-making in autonomous driving and intelligent transportation systems. Beyond research, I love traveling, cooking, savoring diverse cuisines, and letting my imagination run wild—activities that spark creativity and fuel my passion for innovation. If you’re interested in my work, feel free to reach out. Let’s do some interesting and meaningful work together!
+      <strong>Short Bio:</strong> Hi, I’m Xuewen (Snow) Luo, an enthusiastic researcher blending transportation with a solid artificial intelligence background. My research centers on using advanced AI, such as multimodal large language models, to enhance perception and decision-making in autonomous driving and intelligent transportation systems. Beyond research, I love traveling, cooking, savoring diverse cuisines, and letting my imagination run wild—activities that spark creativity and fuel my passion for innovation. If you’re interested in my work, feel free to reach out. Let’s do some interesting and meaningful work together!
     </p>
     
     <div style="font-size: 0.9rem; line-height: 1.4;">
@@ -134,9 +134,66 @@ author_profile: true
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 1rem 0;">
 
+# **Summer Interns**
+<table>
+    <tr><td style="background-color: #E3E3E3; border-top: 2px solid black; padding: 5px; height: 1px;"></td></tr>
+</table>
 
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 2rem; gap: 25px; align-items: flex-start;">
+  <div style="flex: 1; min-width: 150px; max-width: 180px;">
+    <img src="https://chenxiliu-dylan.github.io/images/LucasShen.jpeg" alt="Lucas Shen" style="width: 100%; border-radius: 8px; border: 1px solid #eee;">
+  </div>
+  <div style="flex: 3; min-width: 300px;">
+    <h2 style="margin-top: 0; margin-bottom: 5px; color: #333;">Lucas Shen, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Summer Intern</span></h2>
+    
+    <p style="line-height: 1.6; font-size: 0.95rem; margin-bottom: 0; color: #444;">
+      I'm a high school junior at the Waterford School in Sandy, with a strong interest in engineering and computer science. Whether I’m programming for my school’s robotics team or exploring new ideas on my own, I love using technology to solve complex problems. I also stay active with crew rowing and compete in Science Olympiad. Additionally, I play saxophone in my school’s jazz band. In my free time, I enjoy traveling, hiking, playing chess, and playing strategy games like Starcraft and Civilization.
+    </p>
+  </div>
+</div>
 
+<br><br>
 
+# **Alumni**
+<table>
+    <tr><td style="background-color: #E3E3E3; border-top: 2px solid black; padding: 5px; height: 1px;"></td></tr>
+</table>
+
+<p style="font-size: 0.95rem; color: #555; margin-bottom: 1.5rem;">
+  We are incredibly proud of our former lab members and summer interns for their contributions and wish them the best in their future endeavors.
+</p>
+
+<div style="overflow-x: auto; margin-bottom: 3rem;">
+  <table style="width: 100%; text-align: left; border-collapse: collapse; font-size: 0.95rem;">
+    <thead>
+      <tr style="border-bottom: 2px solid #aaa;">
+        <th style="padding: 12px 10px; color: #333;">Name</th>
+        <th style="padding: 12px 10px; color: #333;">Role & Period</th>
+        <th style="padding: 12px 10px; color: #333;">Next Step / Placement</th>
+        <th style="padding: 12px 10px; color: #333;">Key Focus at Lab</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 10px;"><strong>Isabel Nielson</strong></td>
+        <td style="padding: 12px 10px;">Summer Intern (202X)</td>
+        <td style="padding: 12px 10px; font-style: italic;">[e.g., B.S. Student @ U of Utah]</td>
+        <td style="padding: 12px 10px; color: #555;">Engineering Preparation</td>
+      </tr>
+      
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 10px;"><strong>Weijia Li</strong></td>
+        <td style="padding: 12px 10px;">Summer Intern (202X)</td>
+        <td style="padding: 12px 10px; font-style: italic;">[e.g., Undergraduate Studies]</td>
+        <td style="padding: 12px 10px; color: #555;">AI for Infrastructure</td>
+      </tr>
+      
+    </tbody>
+  </table>
+</div>
+
+{% comment %}
 # **Summer Intern Students**
 <table>
     <tr>
@@ -261,3 +318,5 @@ author_profile: true
 
 
 <hr style="border: 0; border-top: 1px solid #ccc; margin: 2rem 0;">
+
+{% endcomment %}
