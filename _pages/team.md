@@ -159,39 +159,39 @@ author_profile: true
     <tr><td style="background-color: #E3E3E3; border-top: 2px solid black; padding: 5px; height: 1px;"></td></tr>
 </table>
 
-<p style="font-size: 0.95rem; color: #555; margin-bottom: 1.5rem;">
+<p style="font-size: 0.95rem; color: #555; margin-bottom: 2rem;">
   We are incredibly proud of our former lab members and summer interns for their contributions and wish them the best in their future endeavors.
 </p>
 
-<div style="overflow-x: auto; margin-bottom: 3rem;">
-  <table style="width: 100%; text-align: left; border-collapse: collapse; font-size: 0.95rem;">
-    <thead>
-      <tr style="border-bottom: 2px solid #aaa;">
-        <th style="padding: 12px 10px; color: #333;">Name</th>
-        <th style="padding: 12px 10px; color: #333;">Role & Period</th>
-        <th style="padding: 12px 10px; color: #333;">Next Step / Placement</th>
-        <th style="padding: 12px 10px; color: #333;">Key Focus at Lab</th>
-      </tr>
-    </thead>
-    <tbody>
-      
-      <tr style="border-bottom: 1px solid #eee;">
-        <td style="padding: 12px 10px;"><strong>Isabel Nielson</strong></td>
-        <td style="padding: 12px 10px;">Summer Intern (202X)</td>
-        <td style="padding: 12px 10px; font-style: italic;">[e.g., B.S. Student @ U of Utah]</td>
-        <td style="padding: 12px 10px; color: #555;">Engineering Preparation</td>
-      </tr>
-      
-      <tr style="border-bottom: 1px solid #eee;">
-        <td style="padding: 12px 10px;"><strong>Weijia Li</strong></td>
-        <td style="padding: 12px 10px;">Summer Intern (202X)</td>
-        <td style="padding: 12px 10px; font-style: italic;">[e.g., Undergraduate Studies]</td>
-        <td style="padding: 12px 10px; color: #555;">AI for Infrastructure</td>
-      </tr>
-      
-    </tbody>
-  </table>
-</div>
+<h2 style="font-size: 1.3rem; margin-bottom: 1rem; color: #333;">Summer Intern Alumni</h2>
+
+<ul style="list-style-type: none; padding-left: 15px; border-left: 3px solid #ccc; margin-left: 5px;">
+  
+  <li style="margin-bottom: 1.5rem; font-size: 0.95rem; line-height: 1.6;">
+    <strong style="font-size: 1.05rem; color: #333;">Isabel Nielson</strong> <span style="color: #666;">— Summer Intern</span><br>
+    
+    <span style="color: #444;">
+      <strong>Focus at Lab:</strong> Engineering Preparation & Research Exploration
+    </span><br>
+    
+    <span style="color: #444;">
+      <strong>Next Step:</strong> [e.g., Undergraduate Studies / High School Senior]
+    </span>
+  </li>
+  
+  <li style="margin-bottom: 1.5rem; font-size: 0.95rem; line-height: 1.6;">
+    <strong style="font-size: 1.05rem; color: #333;">Weijia Li</strong> <span style="color: #666;">— Summer Intern</span><br>
+    
+    <span style="color: #444;">
+      <strong>Focus at Lab:</strong> AI Applications for Infrastructure & Transportation
+    </span><br>
+    
+    <span style="color: #444;">
+      <strong>Next Step:</strong> [e.g., Undergraduate Studies]
+    </span>
+  </li>
+
+</ul>
 
 {% comment %}
 # **Summer Intern Students**
