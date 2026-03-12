@@ -17,20 +17,11 @@ author_profile: true
   </div>
 
   <div style="flex: 2; min-width: 300px;">
-    <h1 style="margin-top: 0; margin-bottom: 8px; color: #333;">Chenxi Dylan Liu, Ph.D.</span></h1>
+    <h1 style="margin-top: 0; margin-bottom: 8px; color: #333;">Chenxi Dylan Liu, Ph.D.</h1>
     
     <p style="font-size: 0.95rem; line-height: 1.5; color: #444; margin-bottom: 10px;">
       My research develops situation-aware, customized machine intelligence at the intersection of AI and transportation. By integrating Generative AI (LLMs, LVMs, Diffusion) with connected/autonomous systems, I aim to create safer, more equitable, and more resilient mobility solutions.
     </p>
-
-    <div style="font-size: 0.95rem; line-height: 1.5;">
-      <strong>Core Directions:</strong>
-      <ul style="margin-top: 5px; padding-left: 20px;">
-        <li>Situation-aware Intelligence for Autonomous Systems</li>
-        <li>Generative AI for Resilient Transportation Networks</li>
-        <li>Human-Cyber-Physical Systems & Traffic Safety</li>
-      </ul>
-    </div>
 
   </div>
 </div>
@@ -82,109 +73,69 @@ author_profile: true
 
 
 
-<div style="
-  display: flex;
-  flex-wrap: wrap; 
-  margin-bottom: 2rem;        /* Spacing after each student section */
-  gap: 20px;                  /* Space between the image and text */
-  align-items: flex-start;    /* Align items at the top */
-">
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; gap: 20px; align-items: flex-start;">
 
-  <!-- Left: Student Photo -->
-  <div style="flex: 1; min-width: 200px;">
-    <img 
-      src="https://chenxiliu-dylan.github.io/images/bo_yu.png" 
-      alt="Student Photo"
-      style="
-        width: 100%;
-        height: auto;
-        border-radius: 8px;    /* Optional: rounded corners */
-        object-fit: cover;     /* Maintain aspect ratio */
-      "
-    >
+  <div style="flex: 1; min-width: 150px; max-width: 180px;">
+    <img src="https://chenxiliu-dylan.github.io/images/bo_yu.png" alt="Bo Yu" style="width: 100%; border-radius: 6px; border: 1px solid #f0f0f0;">
   </div>
 
-  <!-- Right: Bio & Keywords -->
   <div style="flex: 3; min-width: 300px;">
-    <h2 style="margin-top: 0;">Bo Yu, Research Assistant</h2>
+    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Bo Yu, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
     
-    <!-- Short Bio -->
-    <p>
-      Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
+    <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
+      Passionate about leveraging innovative AI technologies, such as multi-modal machine learning and generative models, to solve challenging problems in mobility systems and advocate for reproducible research (RR).
     </p>
     
-    <!-- Keywords for Research Interests -->
-    <p>
-      <strong>Research Interests:</strong>
-      Intelligent Transportation Systems (ITS), Generative Models, Multi-modal Machine Learning, Reproducible Reasearch (RR) in transportation
-    </p>
+    <div style="font-size: 0.9rem; line-height: 1.4;">
+      <strong>Research Interests:</strong> Intelligent Transportation Systems (ITS), Generative Models, Multi-modal Machine Learning, Reproducible Research.<br>
+      
+      <strong>Selected Honors:</strong>
+      <ul style="margin-top: 2px; margin-bottom: 6px; padding-left: 18px; color: #444;">
+        <li>[Award Name], [Year]</li>
+      </ul>
+    </div>
     
-    <!-- Optionally: Contact / Social Links -->
-    <p>
-      <strong>Contact / Links:</strong><br>
-      <a href="#">Email</a> | 
-      <a href="https://www.linkedin.com/in/bo-yu-016984228/">LinkedIn</a> | 
-      <a href="#">Google Scholar</a>
+    <p style="font-size: 0.85rem; margin-top: 0;">
+      <a href="#">Email</a> | <a href="https://www.linkedin.com/in/bo-yu-016984228/">LinkedIn</a> | <a href="#">Scholar</a>
     </p>
   </div>
 </div>
 
-
-
-
-
-<hr style="border: 0; border-top: 1px solid #ccc; margin: 2rem 0;">
+<hr style="border: 0; border-top: 1px solid #eee; margin: 1rem 0;">
 
 
 
 
 
-<div style="
-  display: flex;
-  flex-wrap: wrap; 
-  margin-bottom: 2rem;        /* Spacing after each student section */
-  gap: 20px;                  /* Space between the image and text */
-  align-items: flex-start;    /* Align items at the top */
-">
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; gap: 20px; align-items: flex-start;">
 
-  <!-- Left: Student Photo -->
-  <div style="flex: 1; min-width: 200px;">
-    <img 
-      src="https://chenxiliu-dylan.github.io/images/xuewen_luo.jpg" 
-      alt="Student Photo"
-      style="
-        width: 100%;
-        height: auto;
-        border-radius: 8px;    /* Optional: rounded corners */
-        object-fit: cover;     /* Maintain aspect ratio */
-      "
-    >
+  <div style="flex: 1; min-width: 150px; max-width: 180px;">
+    <img src="https://chenxiliu-dylan.github.io/images/xuewen_luo.jpg" alt="Xuewen Luo" style="width: 100%; border-radius: 6px; border: 1px solid #f0f0f0;">
   </div>
 
-  <!-- Right: Bio & Keywords -->
   <div style="flex: 3; min-width: 300px;">
-    <h2 style="margin-top: 0;">Xuewen Luo, Research Assistant</h2>
+    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Xuewen (Snow) Luo, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
     
-    <!-- Short Bio -->
-    <p>
-      Hi, I’m Xuewen(Snow) Luo, an enthusiastic researcher blending transportation with a solid artificial intelligence background. My research centers on using advanced AI, such as multimodal large language models, to enhance perception and decision-making in autonomous driving and intelligent transportation systems. Beyond research, I love traveling, cooking, savoring diverse cuisines, and letting my imagination run wild—activities that spark creativity and fuel my passion for innovation. If you’re interested in my work, feel free to reach out. Let’s do some interesting and meaningful work together!
+    <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
+      Focusing on using advanced AI, such as multimodal large language models, to enhance perception and decision-making in autonomous driving and intelligent transportation systems.
     </p>
     
-    <!-- Keywords for Research Interests -->
-    <p>
-      <strong>Research Interests:</strong>
-      Autonomous Driving, V2X, Intelligent Transportation System, Large Language Models (LLMs), Traffic Sensing
-    </p>
+    <div style="font-size: 0.9rem; line-height: 1.4;">
+      <strong>Research Interests:</strong> Autonomous Driving, V2X, Intelligent Transportation Systems, Large Language Models (LLMs), Traffic Sensing.<br>
+      
+      <strong>Selected Honors:</strong>
+      <ul style="margin-top: 2px; margin-bottom: 6px; padding-left: 18px; color: #444;">
+        <li>[Award Name], [Year]</li>
+      </ul>
+    </div>
     
-    <!-- Optionally: Contact / Social Links -->
-    <p>
-      <strong>Contact / Links:</strong><br>
-      <a href="#">Email</a> | 
-      <a href="#">LinkedIn</a> | 
-      <a href="https://scholar.google.com/citations?hl=en&user=r-KCmWcAAAAJ">Google Scholar</a>
+    <p style="font-size: 0.85rem; margin-top: 0;">
+      <a href="#">Email</a> | <a href="#">LinkedIn</a> | <a href="https://scholar.google.com/citations?hl=en&user=r-KCmWcAAAAJ">Scholar</a>
     </p>
   </div>
 </div>
+
+<hr style="border: 0; border-top: 1px solid #eee; margin: 1rem 0;">
 
 
 
