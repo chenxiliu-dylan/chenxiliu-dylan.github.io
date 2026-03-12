@@ -56,7 +56,9 @@ author_profile: true
   </div>
 
   <div style="flex: 3; min-width: 300px;">
-    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
+    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal">Ph.D. Student, 2024 - 2028 (expected)</span></h2>
+
+    <p>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
       Hi, I’m Fengze Yang, a researcher specializing in traffic engineering and artificial intelligence. I strive to grow personally and professionally by embracing curiosity, resilience, effective communication, and collaboration. Challenges inspire me, setbacks teach me, and meaningful connections drive my work. Outside of research, I enjoy snowboarding, car racing, and painting—creative outlets that keep me balanced and energized. Whether you’re here to connect, exchange ideas, or learn more about my journey, I’m excited to engage with you. Let’s work together to make a meaningful impact!
