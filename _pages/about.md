@@ -75,7 +75,7 @@ Undergraduate/graduate visitors are also welcome.
 
 * <span style="color:darkred"> New! </span> Jan. 2026. Our new research paper "[Enhancing Urban Paratransit Reliability: Spatial–Temporal and Causal Analysis of Service Inefficiencies](https://doi.org/10.1061/JUPDDM.UPENG-6200)" is accepted and published on ASCE Journal of Urban Planning and Development.   
 
-* <span style="color:darkred"> New! </span> Jan. 2026. Dr. Chenxi Liu was appointed as an Associate Editor for the ASCE Journal of Computing in Civil Engineering.  
+* <span style="color:darkred"> New! </span> Jan. 2026. Dr. Chenxi Liu was appointed as an Associate Editor for the [ASCE Journal of Computing in Civil Engineering](https://ascelibrary.org/page/jccee5/editorialboard).  
 
 * <span style="color:darkred"> New! </span> Jan. 2026. Our team research project "Distilling GPT-4o for the Edge: Real-Time Transportation Decision Making via Multi-Modal Knowledge Extraction" is selected as the receipt of OpenAI Researcher Access Award. 
 
