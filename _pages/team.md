@@ -166,30 +166,29 @@ author_profile: true
 
 <h2 style="font-size: 1.4rem; margin-bottom: 1.5rem; color: #333; border-bottom: 1px solid #eee; padding-bottom: 5px;">Summer Intern Alumni</h2>
 
-<div style="margin-bottom: 3rem; padding-left: 10px;">
-  <h3 style="margin-top: 0; margin-bottom: 5px; color: #333; font-size: 1.2rem;">Isabel Nielson, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern (06/2025-08/2025)</span></h3>
+<div style="margin-bottom: 2.5rem; padding-left: 5px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; color: #333; font-size: 1.15rem;">
+    Isabel Nielson, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern (06/2025-08/2025)</span>
+  </h3>
   
-  <h4 style="margin-top: 15px; margin-bottom: 5px; color: #444; font-size: 1rem;">Research Focus <span style="margin-top: 0; font-size: 0.95rem; line-height: 1.6; color: #555;"> Engineering preparation and explored early-stage research concepts. 
-  </span></h4>
-
-  <h4 style="margin-top: 15px; margin-bottom: 5px; color: #444; font-size: 1rem;">Next Step / Placement</h4>
-  <p style="margin-top: 0; font-size: 0.95rem; line-height: 1.6; color: #555;">
-    -
+  <p style="margin: 5px 0 5px 15px; font-size: 0.95rem; color: #444;">
+    - <strong>Research Focus:</strong> Engineering preparation and explored early-stage research concepts.
+  </p>
+  <p style="margin: 5px 0 0 15px; font-size: 0.95rem; color: #444;">
+    - <strong>Next Step / Placement:</strong> -
   </p>
 </div>
 
-
-<div style="margin-bottom: 3rem; padding-left: 10px;">
-  <h3 style="margin-top: 0; margin-bottom: 5px; color: #333; font-size: 1.2rem;">Weijia Li, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern (06/2025-08/2025)</span></h3>
+<div style="margin-bottom: 2.5rem; padding-left: 5px;">
+  <h3 style="margin-top: 0; margin-bottom: 10px; color: #333; font-size: 1.15rem;">
+    Weijia Li, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern (06/2025-08/2025)</span>
+  </h3>
   
-  <h4 style="margin-top: 15px; margin-bottom: 5px; color: #444; font-size: 1rem;">Research Focus <span style="margin-top: 0; font-size: 0.95rem; line-height: 1.6; color: #555;">
-    Computer science elements of AI applications
-  </span> </h4>
-  
-
-  <h4 style="margin-top: 15px; margin-bottom: 5px; color: #444; font-size: 1rem;">Next Step / Placement</h4>
-  <p style="margin-top: 0; font-size: 0.95rem; line-height: 1.6; color: #555;">
-   -
+  <p style="margin: 5px 0 5px 15px; font-size: 0.95rem; color: #444;">
+    - <strong>Research Focus:</strong> Computer science elements of AI applications.
+  </p>
+  <p style="margin: 5px 0 0 15px; font-size: 0.95rem; color: #444;">
+    - <strong>Next Step / Placement:</strong> -
   </p>
 </div>
 
