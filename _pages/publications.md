@@ -64,7 +64,7 @@ author_profile: true
     </tr>
 </table>
 
-1. X. Gao, Y. Wu, R. Wang, **C. Liu**, Y. Zhou, and Z. Tu*. "Langcoop: Collaborative driving with language", Proceedings of IEEE the Computer Vision and Pattern Recognition (IEEE-CVPR) Conference, June. 2025. **Best Paper Award** [DOI](https://doi.org/10.1109/CVPRW67362.2025.00406)
+1. X. Gao, Y. Wu, R. Wang, **C. Liu**, Y. Zhou, and Z. Tu*. "Langcoop: Collaborative driving with language", Proceedings of IEEE the Computer Vision and Pattern Recognition (IEEE-CVPR) Conference, June. 2025. <span style="color:darkred">**Best Paper Award** [DOI](https://doi.org/10.1109/CVPRW67362.2025.00406)
 2. X. Luo, **C. Liu***, F. Ding, F. Yang, Y. Zhou, J. Loo, HH. Tew. "Senserag: Constructing environmental knowledge bases with proactive querying for llm-based autonomous driving", Proceedings of IEEE the Winter Conference on Applications of Computer Vision (IEEE-WACV), Mar. 2025. [DOI](https://doi.org/10.1109/WACVW65960.2025.00111)
 3. B. Wang, Z. Cai, M. Karim, **C. Liu**, Y. Wang*. "Traffic performance gpt (tp-gpt): Real-time data informed intelligent chatbot for transportation surveillance and management", Proceedings of  IEEE 27th International Conference on Intelligent Transportation Systems (IEEE-ITSC), Sep. 2024. [DOI](https://doi.org/10.1109/ITSC58415.2024.10919940)
 4. M. Zhu, D. Chen, X. Yuan, Z. Shang, and **C. Liu**. "Learning Realistic and Reactive Traffic Agents". Proceedings of IEEE Intelligent Vehicles Symposium (IEEE-IV), Jun. 2024. [DOI](https://doi.org/10.1109/IV55156.2024.10588807)
