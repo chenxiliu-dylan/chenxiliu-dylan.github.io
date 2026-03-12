@@ -31,7 +31,7 @@ author_profile: true
 11. Winner, Pacific Northwest Transportation Consortium (PacTrans) Region 10 Poster Competition, for research "Real-time Multi-task Environmental Perception System for Traffic Safety Empowered by Edge Artificial Intelligence", Oct. 2022.
 12. **Excellence in Technology Transfer Award**, US Department of Transportation University Transportation Center (UTC) for Federal Region 10, Pacific Northwest Transportation Consortium (PacTrans), AIWaysion Inc., Oct. 2022
 13. **Small Business Innovation Research (SBIR) Award**, U.S. DOT FY 22, "Edge Server-Based AI Application for Dilemma Zone and Traffic Conflict", AIWaysion Inc., Oct. 2022.
-14. **High-Value Research Award**, American Association of State Highway and Transportation Officials (AASHTO)} for project “Real-Time Truck Parking Information Integration, Visualization and Prediction”, Aug 2022.
+14. **High-Value Research Award**, American Association of State Highway and Transportation Officials (AASHTO) for project “Real-Time Truck Parking Information Integration, Visualization and Prediction”, Aug 2022.
 15. Runner-up, American Society of Civil Engineers (ASCE) Student Presentation Competition, University of Washington, Jun. 2022.
 16. Winner, Second MetroLab Student Cup Organized by MetroLab Network, for project "Real-time Road Surface Conditions and Visibility Monitoring System for Traffic Safety", Jun. 2022.
 17. Runner-up, Transportation Forecasting Competition 2022 (TRANSFOR 22), Oustanding Committee TRB AED50 Artificial Intelligence and Advanced Computing Applications, Jan. 2022.
