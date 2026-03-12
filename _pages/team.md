@@ -41,7 +41,18 @@ author_profile: true
 </div>
 
 
-# **Ph.D. Students**
+# **Team Awards & Achievement**
+
+1. Aug. 2025. **Receipt: Fengze Yang, Bo Yu, and Xuewen Luo**. The University of Utah Transportation Team, in collaboration with the Utah Department of Transportation, has been selected as one of the three finalists in the National Operations Center of Excellence (NOCoE) Transportation Technology Tournament (TTT) . We will present our project at the ITE Annual Meeting on August 11, 2025.
+
+<table>
+    <tr>
+        <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: 0.05px solid white; border-left: 0.05px solid white; border-right: 0.05px solid white; padding: 10px; height: 1px;">
+        </td>
+    </tr>
+</table>
+
+# **Graduate Students**
 <table>
     <tr>
         <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: 0.05px solid white; border-left: 0.05px solid white; border-right: 0.05px solid white; padding: 10px; height: 1px;">
@@ -92,7 +103,7 @@ author_profile: true
     </p>
     
      <div style="font-size: 1rem; line-height: 2;">
-      <strong>Research Interests:</strong> ITS, Generative Models, Multi-modal Machine Learning, Reproducible Research.<br>
+      <strong>Research Interests:</strong> ITS, Generative AI, Multi-modal ML, Reproducible Research.<br>
       
     </div>
     
@@ -134,7 +145,7 @@ author_profile: true
 
 <hr style="border: 0; border-top: 1px solid #eee; margin: 1rem 0;">
 
-# **Summer Interns**
+# **Intern Students**
 <table>
     <tr><td style="background-color: #E3E3E3; border-top: 2px solid black; padding: 5px; height: 1px;"></td></tr>
 </table>
