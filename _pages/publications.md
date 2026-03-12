@@ -83,7 +83,7 @@ author_profile: true
 </table>
 
 1. F. Yang, B. Yu, X. Luo, Y. Zhou, Z. Tu, and **C. Liu***. "REACT: A Real-Time Edge-AI Based V2X Framework for Accident Avoidance in Autonomous Driving System", Proceedings of the 105th Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2026.
-2. B. Yu, S. Pan, L. Shen, CX. Liu, and **C. Liu**. "Beyond Daily Averages: How Hourly Weather Patterns Impact Vulnerable Road Users Safety", Proceedings of the 105th Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2026.
+2. B. Yu, S. Pan, L. Shen, CX. Liu, and **C. Liu***. "Beyond Daily Averages: How Hourly Weather Patterns Impact Vulnerable Road Users Safety", Proceedings of the 105th Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2026.
 3. B. Yu, R. Tang, F. Yang, X. Luo, CX. Liu, and **C. Liu***. "VisionCrash: A Customized Vision-Language Foundation Model for Reliable Traffic Crash Detection and Analysis on Social Media", Proceedings of the 105th Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2026.
 4. A. Malekloo, CX. Liu*, N. Markovic, **C. Liu**, and J. Phillips. "A Multi-Tier Framework for Evaluating and Optimizing Urban Paratransit Performance", Proceedings of the 105th Annual Meeting of Transportation Research Board, Lectern Session, Washington D.C. USA, Jan. 2026.
 5. Z. Wang, **C. Liu**, M. Karim, and Y. Wang*. "Edge-Based Multi-Camera Vehicle Re-Identification: A Privacy-Preserving Approach to Urban Traffic Monitoring", Proceedings of the 105th Annual Meeting of Transportation Research Board, Washington D.C. USA, Jan. 2026.
