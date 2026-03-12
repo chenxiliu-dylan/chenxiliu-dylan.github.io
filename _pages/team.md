@@ -159,39 +159,51 @@ author_profile: true
     <tr><td style="background-color: #E3E3E3; border-top: 2px solid black; padding: 5px; height: 1px;"></td></tr>
 </table>
 
-<p style="font-size: 0.95rem; color: #555; margin-bottom: 2rem;">
+<p style="font-size: 0.95rem; color: #555; margin-bottom: 2.5rem;">
   We are incredibly proud of our former lab members and summer interns for their contributions and wish them the best in their future endeavors.
 </p>
 
-<h2 style="font-size: 1.3rem; margin-bottom: 1rem; color: #333;">Summer Intern Alumni</h2>
 
-<ul style="list-style-type: none; padding-left: 15px; border-left: 3px solid #ccc; margin-left: 5px;">
-  
-  <li style="margin-bottom: 1.5rem; font-size: 0.95rem; line-height: 1.6;">
-    <strong style="font-size: 1.05rem; color: #333;">Isabel Nielson</strong> <span style="color: #666;">— Summer Intern</span><br>
-    
-    <span style="color: #444;">
-      <strong>Focus at Lab:</strong> Engineering Preparation & Research Exploration
-    </span><br>
-    
-    <span style="color: #444;">
-      <strong>Next Step:</strong> [e.g., Undergraduate Studies / High School Senior]
-    </span>
-  </li>
-  
-  <li style="margin-bottom: 1.5rem; font-size: 0.95rem; line-height: 1.6;">
-    <strong style="font-size: 1.05rem; color: #333;">Weijia Li</strong> <span style="color: #666;">— Summer Intern</span><br>
-    
-    <span style="color: #444;">
-      <strong>Focus at Lab:</strong> AI Applications for Infrastructure & Transportation
-    </span><br>
-    
-    <span style="color: #444;">
-      <strong>Next Step:</strong> [e.g., Undergraduate Studies]
-    </span>
-  </li>
+<h2 style="font-size: 1.4rem; margin-bottom: 1.5rem; color: #333; border-bottom: 1px solid #eee; padding-bottom: 5px;">Summer Intern Alumni</h2>
 
-</ul>
+<div style="margin-bottom: 3rem; padding-left: 10px;">
+  <h3 style="margin-top: 0; margin-bottom: 5px; color: #333; font-size: 1.2rem;">Isabel Nielson, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern</span></h3>
+  
+  <h4 style="margin-top: 15px; margin-bottom: 5px; color: #444; font-size: 1rem;">Research Focus & Contributions</h4>
+  <p style="margin-top: 0; font-size: 0.95rem; line-height: 1.6; color: #555;">
+    During her time in the lab, Isabel focused on engineering preparation and explored early-stage research concepts. She brought a strong passion for learning and hands-on problem solving to our transportation projects, gaining practical exposure to the engineering field.
+  </p>
+
+  <h4 style="margin-top: 15px; margin-bottom: 5px; color: #444; font-size: 1rem;">Next Step / Placement</h4>
+  <p style="margin-top: 0; font-size: 0.95rem; line-height: 1.6; color: #555;">
+    [e.g., Preparing for college engineering programs / High School Senior]
+  </p>
+</div>
+
+
+<div style="margin-bottom: 3rem; padding-left: 10px;">
+  <h3 style="margin-top: 0; margin-bottom: 5px; color: #333; font-size: 1.2rem;">Weijia Li, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern</span></h3>
+  
+  <h4 style="margin-top: 15px; margin-bottom: 5px; color: #444; font-size: 1rem;">Research Focus & Contributions</h4>
+  <p style="margin-top: 0; font-size: 0.95rem; line-height: 1.6; color: #555;">
+    Weijia engaged deeply with the computer science elements of AI applications, specifically investigating how machine learning can be integrated with physical infrastructure. His work contributed to our understanding of solving real-world transportation challenges through AI.
+  </p>
+
+  <h4 style="margin-top: 15px; margin-bottom: 5px; color: #444; font-size: 1rem;">Next Step / Placement</h4>
+  <p style="margin-top: 0; font-size: 0.95rem; line-height: 1.6; color: #555;">
+    [e.g., Pursuing undergraduate studies in Computer Science]
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 {% comment %}
 # **Intern Students**
