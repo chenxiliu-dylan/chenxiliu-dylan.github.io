@@ -12,17 +12,36 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; margin-bottom: 2rem; gap: 25px; align-items: flex-start;">
 
-  <div style="flex: 1; min-width: 150px; max-width: 180px;">
+  <div style="flex: 1; min-width: 200px; max-width: 250px;">
     <img src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" alt="Director Photo" style="width: 100%; border-radius: 8px; border: 1px solid #eee;">
   </div>
 
   <div style="flex: 2; min-width: 300px;">
-    <h1 style="margin-top: 0; margin-bottom: 8px; color: #333;">Chenxi Dylan Liu, Ph.D.</h1>
+    <h2 style="margin-top: 0; margin-bottom: 5px; color: #333;">Chenxi Dylan Liu, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D.</span></h2>
     
-    <p style="font-size: 0.95rem; line-height: 1.5; color: #444; margin-bottom: 10px;">
+    <p style="font-size: 1rem; color: #555; margin-bottom: 15px; font-style: italic;">
+      Assistant Professor, Civil & Environmental Engineering<br>
+      University of Utah
+    </p>
+    
+    <p style="margin-bottom: 15px; line-height: 1.5; font-size: 0.95rem;">
       My research develops situation-aware, customized machine intelligence at the intersection of AI and transportation. By integrating Generative AI (LLMs, LVMs, Diffusion) with connected/autonomous systems, I aim to create safer, more equitable, and more resilient mobility solutions.
     </p>
 
+    <div style="font-size: 0.95rem; line-height: 1.5;">
+      <strong>Core Research Thrusts:</strong>
+      <ul style="margin-top: 5px; margin-bottom: 15px; padding-left: 20px; color: #444;">
+        <li>Generative & Agentic AI in Transportation</li>
+        <li>Cyber-Physical Cooperation</li>
+        <li>Distributed Computing & Edge Intelligence</li>
+      </ul>
+    </div>
+
+    <p style="font-size: 0.9rem; margin-top: 0;">
+      <a href="mailto:chenxi.liu@utah.edu">Email</a> | 
+      <a href="https://scholar.google.com/citations?user=...">Google Scholar</a> | 
+      <a href="https://chenxiliu-dylan.github.io/">Full CV & About Me</a>
+    </p>
   </div>
 </div>
 
@@ -35,33 +54,36 @@ author_profile: true
     </tr>
 </table>
 
-<div style="display: flex; flex-wrap: wrap; margin-bottom: 2rem; gap: 25px; align-items: center;"> <div style="flex: 0 0 140px;"> <img src="https://chenxiliu-dylan.github.io/images/fengze_yang.jpg" alt="Fengze Yang" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; border: 3px solid #f9f9f9; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; gap: 20px; align-items: flex-start;">
+
+  <div style="flex: 1; min-width: 150px; max-width: 180px;">
+    <img src="https://chenxiliu-dylan.github.io/images/fengze_yang.jpg" alt="Fengze Yang" style="width: 100%; border-radius: 6px; border: 1px solid #f0f0f0;">
   </div>
 
-  <div style="flex: 1; min-width: 300px;">
-    <h2 style="margin-top: 0; margin-bottom: 5px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
+  <div style="flex: 3; min-width: 300px;">
+    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
     
-    <p style="margin: 0 0 8px 0; font-size: 0.95rem; color: #555; font-style: italic;">
-      B.S., [Previous University Name], [Year]
-    </p>
-
-    <p style="margin-bottom: 8px; line-height: 1.4; font-size: 0.95rem;">
+    <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
       Focusing on the intersection of traffic engineering and AI, with an emphasis on Large Language Models (LLMs) and mobility safety.
     </p>
     
     <div style="font-size: 0.9rem; line-height: 1.4;">
       <strong>Research Interests:</strong> LLMs, V2X, Edge Computing, Traffic Safety.<br>
-      <strong>Selected Honors:</strong> [Award Name], 2024 | [Award Name], 2023 </div>
+      
+      <strong>Selected Honors:</strong>
+      <ul style="margin-top: 2px; margin-bottom: 6px; padding-left: 18px; color: #444;">
+        <li>[Award Name], 2024</li>
+        <li>[Award Name], 2023</li>
+      </ul>
+    </div>
     
-    <p style="font-size: 0.85rem; margin-top: 8px;">
-      <a href="mailto:fred.yang@utah.edu">Email</a> | 
-      <a href="https://www.linkedin.com/in/fengze-yang-a35825215/">LinkedIn</a> | 
-      <a href="https://scholar.google.com/citations?user=5i0PcJgAAAAJ">Scholar</a>
+    <p style="font-size: 0.85rem; margin-top: 0;">
+      <a href="mailto:fred.yang@utah.edu">Email</a> | <a href="https://www.linkedin.com/in/fengze-yang-a35825215/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=5i0PcJgAAAAJ">Scholar</a>
     </p>
   </div>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #eee; margin: 1.5rem 0;">
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 1.5rem 0;">
 
 
 
