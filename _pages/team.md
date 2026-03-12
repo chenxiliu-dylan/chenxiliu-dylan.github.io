@@ -85,7 +85,7 @@ author_profile: true
   </div>
 
   <div style="flex: 3; min-width: 300px;">
-    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Bo Yu, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
+    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Bo Yu, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student, 2025 - 2029 (expected)</span></h2>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
       <strong>Short Bio:</strong>Hi, my name is Bo Yu, and you can just call me Bo. I am a researcher working at the intersection of AI and transportation. I am passionate about leveraging innovative AI technologies such as multi-modal machine learning and generative models to solve challenging problems in mobility systems. I am also a strong advocate for making transportation research reproducible (RR). Outside of research, I enjoy sports, such as playing basketball and hiking. A fun fact about me is that I also research I Ching in my spare time, which is a famous concept in traditional Chinese philosophy and also a key inspiration in my research and life.
@@ -115,7 +115,7 @@ author_profile: true
   </div>
 
   <div style="flex: 3; min-width: 300px;">
-    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Xuewen (Snow) Luo, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
+    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Xuewen (Snow) Luo, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student, 2025 - 2029 (expected)</span></h2>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
       <strong>Short Bio:</strong>Hi, I’m Xuewen (Snow) Luo, an enthusiastic researcher blending transportation with a solid artificial intelligence background. My research centers on using advanced AI, such as multimodal large language models, to enhance perception and decision-making in autonomous driving and intelligent transportation systems. Beyond research, I love traveling, cooking, savoring diverse cuisines, and letting my imagination run wild—activities that spark creativity and fuel my passion for innovation. If you’re interested in my work, feel free to reach out. Let’s do some interesting and meaningful work together!
