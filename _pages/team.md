@@ -17,11 +17,7 @@ author_profile: true
   </div>
 
   <div style="flex: 2; min-width: 300px;">
-    <h1 style="margin-top: 0; margin-bottom: 8px; color: #333;">Chenxi Dylan Liu, <span style="font-size: 1.2rem; font-weight: normal; color: #666;">Ph.D.</span></h1>
-    <p style="font-size: 1.1rem; color: #555; margin-bottom: 12px; line-height: 1.4;">
-      <strong>Assistant Professor</strong>, Department of Civil and Environmental Engineering <br>
-      University of Utah
-    </p>
+    <h1 style="margin-top: 0; margin-bottom: 8px; color: #333;">Chenxi Dylan Liu, Ph.D.</span></h1>
     
     <p style="font-size: 0.95rem; line-height: 1.5; color: #444; margin-bottom: 10px;">
       My research develops situation-aware, customized machine intelligence at the intersection of AI and transportation. By integrating Generative AI (LLMs, LVMs, Diffusion) with connected/autonomous systems, I aim to create safer, more equitable, and more resilient mobility solutions.
