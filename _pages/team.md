@@ -180,7 +180,7 @@ author_profile: true
 
 <div style="margin-bottom: 2.5rem; padding-left: 5px;">
   <h3 style="margin-top: 0; margin-bottom: 10px; color: #333; font-size: 1.15rem;">
-    Isabel Nielson, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern Student(06/2025-08/2025)</span>
+    Isabel Nielson, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern Student (06/2025-08/2025)</span>
   </h3>
   
   <p style="margin: 5px 0 5px 15px; font-size: 0.95rem; color: #444;">
@@ -193,7 +193,7 @@ author_profile: true
 
 <div style="margin-bottom: 2.5rem; padding-left: 5px;">
   <h3 style="margin-top: 0; margin-bottom: 10px; color: #333; font-size: 1.15rem;">
-    Weijia Li, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern Student(06/2025-08/2025)</span>
+    Weijia Li, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern Student (06/2025-08/2025)</span>
   </h3>
   
   <p style="margin: 5px 0 5px 15px; font-size: 0.95rem; color: #444;">
