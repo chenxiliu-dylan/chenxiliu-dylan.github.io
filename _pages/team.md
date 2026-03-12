@@ -92,7 +92,7 @@ author_profile: true
     </p>
     
      <div style="font-size: 1rem; line-height: 2;">
-      <strong>Research Interests:</strong> Intelligent Transportation Systems (ITS), Generative Models, Multi-modal Machine Learning, Reproducible Research.<br>
+      <strong>Research Interests:</strong> ITS, Generative Models, Multi-modal Machine Learning, Reproducible Research.<br>
       
     </div>
     
@@ -122,7 +122,7 @@ author_profile: true
     </p>
     
      <div style="font-size: 1rem; line-height: 2;">
-      <strong>Research Interests:</strong> Autonomous Driving, V2X, Intelligent Transportation Systems, Large Language Models (LLMs), Traffic Sensing.<br>
+      <strong>Research Interests:</strong> Autonomous Driving, V2X, ITS, LLMs, Traffic Sensing.<br>
       
     </div>
     
@@ -163,12 +163,9 @@ author_profile: true
   We are incredibly proud of our former lab members and summer interns for their contributions and wish them the best in their future endeavors.
 </p>
 
-
-<h2 style="font-size: 1.4rem; margin-bottom: 1.5rem; color: #333; border-bottom: 1px solid #eee; padding-bottom: 5px;">Summer Intern Alumni</h2>
-
 <div style="margin-bottom: 2.5rem; padding-left: 5px;">
   <h3 style="margin-top: 0; margin-bottom: 10px; color: #333; font-size: 1.15rem;">
-    Isabel Nielson, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern (06/2025-08/2025)</span>
+    Isabel Nielson, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern Student(06/2025-08/2025)</span>
   </h3>
   
   <p style="margin: 5px 0 5px 15px; font-size: 0.95rem; color: #444;">
@@ -181,7 +178,7 @@ author_profile: true
 
 <div style="margin-bottom: 2.5rem; padding-left: 5px;">
   <h3 style="margin-top: 0; margin-bottom: 10px; color: #333; font-size: 1.15rem;">
-    Weijia Li, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern (06/2025-08/2025)</span>
+    Weijia Li, <span style="font-size: 1rem; font-weight: normal; color: #666;">Summer Intern Student(06/2025-08/2025)</span>
   </h3>
   
   <p style="margin: 5px 0 5px 15px; font-size: 0.95rem; color: #444;">
