@@ -31,7 +31,9 @@ I am Chenxi Liu (刘晨曦), and you may also call me Dylan. I am an Assistant P
 
 <!--My research focused on the situation-aware Agentic Artificial Intelligence to establish a connected and autonomous transportation system for safety and resiliency. More specifically, I prefer to develop **advanced machine intelligence** with **Generative Artificial Intelligence** and **Distributed Learning Structure** to build a **connected and autonomous transportation system** for various applications. -->
 
-My research centers on **situation-awared agentic AI** for building connected and autonomous transportation systems with improved safety and resilience. I develop advanced machine intelligence by integrating **generative AI** with **distributed learning** architectures to enable scalable, reliable deployment across diverse transportation applications.
+My research lies at the intersection of AI, connected/autonomous systems, and transportation engineering, centering on situation-aware agentic AI to build safer and highly resilient mobility. I develop advanced, customized machine intelligence by integrating real-time data from vehicles and infrastructure with generative AI (including LLMs, LVMs, and diffusion models) and distributed learning architectures.
+
+This integration enables scalable and reliable AI deployment across diverse transportation applications. It allows us to simulate rare or complex traffic conditions and proactively manage dynamic networks. Specifically, this approach enhances safety through robust training and decision-making, and fosters resilience through fault-tolerant designs capable of adapting to disruptions like adverse weather or cyberattacks. Ultimately, I aim to translate cutting-edge research into real-world solutions by collaborating with stakeholders across academia, industry, and government.
 
 ---
 

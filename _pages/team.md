@@ -7,45 +7,40 @@ author_profile: true
 
 # **Lab Director**
 <table>
-    <tr>
-        <td style="background-color: #E3E3E3; border-top: 2px solid black; border-bottom: 0.05px solid white; border-left: 0.05px solid white; border-right: 0.05px solid white; padding: 10px; height: 1px;">
-        </td>
-    </tr>
+    <tr><td style="background-color: #E3E3E3; border-top: 2px solid black; padding: 5px; height: 1px;"></td></tr>
 </table>
 
-<!-- Director Section: Half-page Photo (Left), Info (Right) -->
-<div style="
-  display: flex;
-  flex-wrap: wrap;           /* Allows wrapping on smaller screens */
-  margin-bottom: 2rem;       /* Spacing below the section */
-">
+<div style="display: flex; flex-wrap: wrap; margin-bottom: 2rem; gap: 25px; align-items: flex-start;">
 
-  <!-- Left: Large Photo -->
-  <div style="flex: 1; min-width: 300px;">
-    <img 
-      src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" 
-      alt="Director Photo"
-      style="
-        width: 100%;
-        height: auto;
-        border-radius: 8px;   /* Rounded corners if desired */
-        object-fit: cover;    /* Ensures the image scales nicely */
-      "
-    >
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <img src="https://chenxiliu-dylan.github.io/images/Chenxi_4_5_3.JPG" alt="Director Photo" style="width: 100%; border-radius: 8px; border: 1px solid #eee;">
   </div>
 
-  <!-- Right: Text about Yourself -->
-  <div style="flex: 2; min-width: 300px; padding-left: 1rem;">
-    <h1 style="margin-top: 0;">Chenxi Dylan Liu, Ph.D. </h1>
+  <div style="flex: 2; min-width: 300px;">
+    <h1 style="margin-top: 0; margin-bottom: 8px; color: #333;">Chenxi Dylan Liu, <span style="font-size: 1.2rem; font-weight: normal; color: #666;">Ph.D.</span></h1>
+    <p style="font-size: 1.1rem; color: #555; margin-bottom: 12px; line-height: 1.4;">
+      <strong>Assistant Professor</strong>, Department of Civil and Environmental Engineering <br>
+      University of Utah
+    </p>
     
-    <p>
-      My research lies at the intersection of AI, connected/autonomous systems, and transportation engineering, where I develop situation-aware, customized machine intelligence for safer, more equitable, and more resilient mobility. By integrating real-time data from vehicles, infrastructure, and external sources with generative AI (including LLMs, LVMs, and diffusion models), I can simulate rare or complex traffic conditions and proactively manage transportation networks. This approach enhances safety through robust training and decision-making, addresses equity by creating representative datasets that help mitigate biases, and fosters resilience through fault-tolerant designs capable of adapting to disruptions like adverse weather or cyberattacks. Ultimately, I aim to translate cutting-edge research into scalable, real-world solutions by collaborating with stakeholders across academia, industry, and government.
+    <p style="font-size: 0.95rem; line-height: 1.5; color: #444; margin-bottom: 10px;">
+      My research develops situation-aware, customized machine intelligence at the intersection of AI and transportation. By integrating Generative AI (LLMs, LVMs, Diffusion) with connected/autonomous systems, I aim to create safer, more equitable, and more resilient mobility solutions.
     </p>
-    <p>
-      I am eager to collaborate with academia, industry, and government to drive impactful research in connected and autonomous transportation. My approach fosters strong interdisciplinary teamwork, spanning from technical development to real-world application. Please feel free to reach out at <a href="mailto:chenxi.liu@utah.edu">chenxi.liu@utah.edu</a>.
+
+    <div style="font-size: 0.95rem; line-height: 1.5;">
+      <strong>Core Directions:</strong>
+      <ul style="margin-top: 5px; padding-left: 20px;">
+        <li>Situation-aware Intelligence for Autonomous Systems</li>
+        <li>Generative AI for Resilient Transportation Networks</li>
+        <li>Human-Cyber-Physical Systems & Traffic Safety</li>
+      </ul>
+    </div>
+
+    <p style="font-size: 0.9rem; margin-top: 10px;">
+      <a href="mailto:chenxi.liu@utah.edu">Email</a> | 
+      <a href="https://chenxiliu-dylan.github.io/">Full CV & About Me</a>
     </p>
   </div>
-
 </div>
 
 
@@ -64,7 +59,7 @@ author_profile: true
   </div>
 
   <div style="flex: 3; min-width: 300px;">
-    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student</span></h2>
+    <h2 style="margin-top: 0; margin-bottom: 4px; color: #333;">Fengze Yang, <span style="font-size: 1.1rem; font-weight: normal; color: #666;">Ph.D. Student/ Research Assistant</span></h2>
     
     <p style="margin-bottom: 6px; line-height: 1.4; font-size: 0.95rem;">
       Focusing on the intersection of traffic engineering and AI, with an emphasis on Large Language Models (LLMs) and mobility safety.
