@@ -82,7 +82,7 @@ author_profile: true
 </ul>
 
 
-<ul style="list-style-type: none; padding-left: 0; margin-top: 1.5rem;">
+<ul style="list-style-type: none; padding-left: 0; margin-top: 0.5rem;">
 
   <li style="margin-bottom: 1.8rem; font-size: 0.95rem; line-height: 1.6; color: #333;">
     <strong style="color: #CC0000; font-size: 1rem;">[Aug. 2025]</strong> 
