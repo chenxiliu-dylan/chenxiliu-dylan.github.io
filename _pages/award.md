@@ -64,7 +64,7 @@ author_profile: true
 
 <ul style="list-style-type: none; padding-left: 0; margin-top: 1.5rem;">
 
-  <li style="margin-bottom: 1rem; font-size: 0.95rem; line-height: 1; color: #333;">
+  <li style="margin-bottom: 1.8rem; font-size: 0.95rem; line-height: 1.6; color: #333;">
     <strong style="color: #CC0000; font-size: 1rem;">[Aug. 2025]</strong> 
     The University of Utah Transportation Team including <strong>Fengze Yang (team leader), Bo Yu, and Xuewen Luo</strong>, in collaboration with the Utah Department of Transportation, has been selected as one of the three finalists in the National Operations Center of Excellence (NOCoE) <a href="#">Transportation Technology Tournament (TTT)</a>. We presented our project at the ITE Annual Meeting on August 11, 2025. Learn more from our <a href="#">LinkedIn Post</a>.
   </li>
