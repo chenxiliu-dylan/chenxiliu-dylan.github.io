@@ -64,7 +64,7 @@ author_profile: true
 
 <ul style="list-style-type: none; padding-left: 0; margin-top: 1.5rem;">
 
-  <li style="margin-bottom: 1.8rem; font-size: 0.95rem; line-height: 1.6; color: #333;">
+  <li style="margin-bottom: 1rem; font-size: 0.95rem; line-height: 1; color: #333;">
     <strong style="color: #CC0000; font-size: 1rem;">[Aug. 2025]</strong> 
     The University of Utah Transportation Team including <strong>Fengze Yang (team leader), Bo Yu, and Xuewen Luo</strong>, in collaboration with the Utah Department of Transportation, has been selected as one of the three finalists in the National Operations Center of Excellence (NOCoE) <a href="#">Transportation Technology Tournament (TTT)</a>. We presented our project at the ITE Annual Meeting on August 11, 2025. Learn more from our <a href="#">LinkedIn Post</a>.
   </li>
@@ -77,26 +77,6 @@ author_profile: true
   <li style="margin-bottom: 1.8rem; font-size: 0.95rem; line-height: 1.6; color: #333;">
     <strong style="color: #CC0000; font-size: 1rem;">[Apr. 2025]</strong> 
     <strong>Xuewen Luo</strong> has been selected for the <a href="#">2025 IEEE Intelligent Transportation Systems Society (ITSS) Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS</a>. As part of the program, she organized and hosted a workshop in June titled “Ask Her Way: A Reverse Q&A and Career Match for Aspiring Women in Transportation.” Learn more from the <a href="#">LinkedIn Post</a>.
-  </li>
-
-</ul>
-
-
-<ul style="list-style-type: none; padding-left: 0; margin-top: 0.5rem;">
-
-  <li style="margin-bottom: 1.8rem; font-size: 0.95rem; line-height: 1.6; color: #333;">
-    <strong style="color: #CC0000; font-size: 1rem;">[Aug. 2025]</strong> 
-    The University of Utah Transportation Team including <strong>Fengze Yang (team leader), Bo Yu, and Xuewen Luo</strong>, in collaboration with the Utah Department of Transportation, has been selected as one of the three finalists in the National Operations Center of Excellence (NOCoE) <a href="https://transportationops.org/transportation-technology-tournament/2026">Transportation Technology Tournament (TTT)</a>. We presented our project at the ITE Annual Meeting on August 11, 2025. Learn more from our <a href="https://www.linkedin.com/posts/chenxi-liu-1a9019173_proud-achievement-for-the-utah-ttt-team-ugcPost-7362342929849331712-CUeX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo">LinkedIn Post</a>.
-  </li>
-
-  <li style="margin-bottom: 1.8rem; font-size: 0.95rem; line-height: 1.6; color: #333;">
-    <strong style="color: #CC0000; font-size: 1rem;">[May. 2025]</strong> 
-    <strong>Fengze Yang</strong> received ITE Utah Section Student Scholarship and presented his recent research in the <a href="https://www.civil.utah.edu/2025/06/10/university-of-utah-recognized-at-2025-ite-mountain-district-annual-meeting/">Mountain District ITE Conference</a>. Learn more from the <a href="https://www.linkedin.com/posts/fengze-yang-a35825215_iteabrutahabrsection-iteutahsection-ite-activity-7307903560912945152-LinF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo">LinkedIn Post</a>.
-  </li>
-
-  <li style="margin-bottom: 1.8rem; font-size: 0.95rem; line-height: 1.6; color: #333;">
-    <strong style="color: #CC0000; font-size: 1rem;">[Apr. 2025]</strong> 
-    <strong>Xuewen Luo</strong> has been selected for the <a href="https://ieee-itss.org/the-2025-fellowship-program-for-promoting-women-young-professionals-and-leadership-in-its/">2025 IEEE Intelligent Transportation Systems Society (ITSS) Fellowship Program for Promoting Women, Young Professionals, and Leadership in ITS</a>. As part of the program, she organized and hosted a workshop in June titled "Ask Her Way: A Reverse Q&A and Career Match for Aspiring Women in Transportation." Learn more from the <a href="https://www.linkedin.com/posts/xuewen-luo-698a46285_transportation-womeninstem-careermentorship-share-7337110684280725506-w8v-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkdftEBFCSed7rwXEC9n6QVYS6lYF8xudo">LinkedIn Post</a>.
   </li>
 
 </ul>
