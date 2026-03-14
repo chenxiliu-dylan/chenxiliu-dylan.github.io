@@ -14,7 +14,6 @@ author_profile: true
     </tr>
 </table>
 
----
 
 ## 2022-2026
 
@@ -50,7 +49,7 @@ author_profile: true
 27. Outstanding Voluntary Teaching Award, Summer Practice Program, Tsinghua University, Beijing, China, Oct. 2014.
 28. University Scholarship, Excellent Practice Team Leader Scholarship, Tsinghua University, Beijing, China, Sep. 2014.
 29. Second Prize, China Undergraduate Mathematical Contest in Modeling, Tsinghua University, Beijing, China, Jul. 2014.
-30. First Prize (Top 100/300,000)}, National Chinese Physics Olympiad (CPhO), China, Oct. 2012.
+30. First Prize (Top 100/300,000), National Chinese Physics Olympiad (CPhO), China, Oct. 2012.
 
 # **Team Awards & Achievements**
 
